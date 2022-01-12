@@ -59,3 +59,4 @@
 * [Phase 0: Community (Jan 2022)](roadmap/phase-0-community-jan-2022.md)
 * [Phase 1: Alpha (Feb 2022)](roadmap/phase-1-alpha-feb-2022.md)
 * [Phase 2: Beta (Mar 2022)](roadmap/phase-2-beta-mar-2022.md)
+* [Phase 3: Public (Apr 2022)](roadmap/phase-3-public-apr-2022.md)

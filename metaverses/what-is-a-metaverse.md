@@ -6,7 +6,7 @@ The Rove system comprises infinite unique metaverses. Anyone can create one.
 
 Founders create metaverses for their communities, common interest groups, shared causes, and any reason for people to come together.
 
-Metaverse economies are powered by experiences. Assets that can be bought and sold include rocks to host each experience, tickets to participate in them, and objects to enhance them.
+Metaverse economies are powered by [experiences](broken-reference). Assets that can be bought and sold include [rocks](broken-reference) to host each experience, tickets to participate in them, and objects to enhance them.
 
 Every metaverse is independent, run by its inhabitants. The Founder is the first governor of that metaverse and can release control to the community by distributing rocks. Rock owners co-own and co-operate.
 
