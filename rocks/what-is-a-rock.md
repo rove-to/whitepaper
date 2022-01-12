@@ -9,5 +9,3 @@ Rocks have attributes common to their local metaverses – such as density, size
 Think of Rock attributes as basic primitives that can be used in infinite ways – like a deck of cards. Creators can interpret these attributes however they like to build unique and engaging experiences – like Blackjack or Poker.
 
 The RockNFT smart contract is open-source [here](https://github.com/rove-to/evm-smart-contracts/blob/main/contracts/RockNFT.sol).
-
-The rock rendering algorithm and the rock genetic algorithm are open-source [here](https://github.com/rove-to/rocks).
