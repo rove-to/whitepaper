@@ -1,6 +1,9 @@
 ---
 coverY: 0
-description: Making the internet fairer and indefinitely more fun.
+description: >-
+  Rove is where anyone can create a metaverse. Where anyone can host, discover,
+  and monetize any sort of digital experience. People are in charge here, not
+  corporations or algorithms.
 ---
 
 # What is Rove
