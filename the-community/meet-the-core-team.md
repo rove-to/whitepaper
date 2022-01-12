@@ -5,24 +5,24 @@ coverY: 0
 description: Get familiar with everyone on the core team
 ---
 
-# Meet the Team!
+# Meet the core team!
 
-## Thinh 🎨 Visual Designer
+### Thinh
+
+🎨 Visual Designer — 🏡 Address: Genesis Metaverse, 100, 125 — ❤️ Favorite rock: Voronoi
 
 ![](<../.gitbook/assets/image (1).png>)
 
-TODO: write a succinct bio that can help the community members to learn about this core team member.
+### Billy
 
-## Billy 👋 Community Manager
+👋 Partnership Manager — 🏡 Address: Genesis Metaverse, 259, 800 — ❤️ Favorite rock: Metaball
 
 ![](<../.gitbook/assets/image (3).png>)
 
-TODO: write a succinct bio that can help the community members to learn about this core team member.
+### Hoang 👷 VR Developer
 
-## Hoang 👷 VR Developer
+👷 VR Developer — 🏡 Address: Genesis Metaverse, 750, 625 — ❤️ Favorite rock: Sphero
 
 ![](<../.gitbook/assets/image (2).png>)
-
-TODO: write a succinct bio that can help the community members to learn about this core team member.
 
 ****
