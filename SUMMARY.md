@@ -51,11 +51,5 @@
 
 ## The Core Team
 
-* [Mission and Values](the-core-team/mission-and-values.md)
+* [Mission](the-core-team/mission.md)
 * [Meet the Team!](the-core-team/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
-* [Page 1](the-formal-stuff/page-1.md)
