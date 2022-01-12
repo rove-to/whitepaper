@@ -1,5 +1,6 @@
 ---
 coverY: 0
+description: Making the internet fairer and indefinitely more fun.
 ---
 
 # What is Rove
