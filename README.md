@@ -6,9 +6,9 @@ description: >-
   corporations or algorithms.
 ---
 
-# What is Rove
+# What is Rove?
 
-![](<.gitbook/assets/image (1).png>)
+![The Rove System. ](<.gitbook/assets/image (1).png>)
 
 ## An open system of user-created metaverses
 

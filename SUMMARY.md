@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Rove](README.md)
+* [What is Rove?](README.md)
 
 ## Metaverses
 
