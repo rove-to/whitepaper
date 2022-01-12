@@ -1,3 +1,3 @@
 # Create a metaverse
 
-<mark style="background-color:orange;">TODO</mark>: Add step-by-step instructions & screenshots of how to create a new metaverse
+Step-by-step instruction will be updated here a few days before the feature launch date.

@@ -40,7 +40,7 @@
 ## The Rove token
 
 * [Utilities](the-rove-token/utilities.md)
-* [Release schedule](the-rove-token/release-schedule.md)
+* [Distribution](the-rove-token/distribution.md)
 
 ## The rove digital economy
 
@@ -49,7 +49,13 @@
 * [The global economy](the-rove-digital-economy/the-global-economy.md)
 * [Taxes](the-rove-digital-economy/taxes.md)
 
-## The Core Team
+## The Community
 
-* [Mission](the-core-team/mission.md)
-* [Meet the Team!](the-core-team/meet-the-team.md)
+* [The community mission](the-community/the-community-mission.md)
+* [Meet the core team!](the-community/meet-the-core-team.md)
+
+## Roadmap
+
+* [Phase 0: Community (Jan 2022)](roadmap/phase-0-community-jan-2022.md)
+* [Phase 1: Alpha (Feb 2022)](roadmap/phase-1-alpha-feb-2022.md)
+* [Phase 2: Beta (Mar 2022)](roadmap/phase-2-beta-mar-2022.md)
