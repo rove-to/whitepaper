@@ -19,7 +19,7 @@ description: Get familiar with everyone on the core team
 
 ![](<../.gitbook/assets/image (3).png>)
 
-### Hoang 👷 VR Developer
+### Hoang
 
 👷 VR Developer — 🏡 Address: Genesis Metaverse, 750, 625 — ❤️ Favorite rock: Sphero
 
