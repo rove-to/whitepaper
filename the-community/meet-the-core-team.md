@@ -9,19 +9,31 @@ description: Get familiar with everyone on the core team
 
 ### Thinh
 
-🎨 Visual Designer — 🏡 Address: Genesis Metaverse, 100, 125 — ❤️ Favorite rock: Voronoi
+🎨 Visual Designer
+
+🏡 Address: Genesis Metaverse, 100, 125
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Voronoi
 
 ![](<../.gitbook/assets/image (1).png>)
 
 ### Billy
 
-👋 Partnership Manager — 🏡 Address: Genesis Metaverse, 259, 800 — ❤️ Favorite rock: Metaball
+👋 Partnership Manager
+
+🏡 Address: Genesis Metaverse, 259, 800
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Metaball
 
 ![](<../.gitbook/assets/image (3).png>)
 
 ### Hoang
 
-👷 VR Developer — 🏡 Address: Genesis Metaverse, 750, 625 — ❤️ Favorite rock: Sphero
+👷 VR Developer
+
+🏡 Address: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
 
 ![](<../.gitbook/assets/image (2).png>)
 
