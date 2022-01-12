@@ -1,6 +1,6 @@
 # Rock families
 
-![](https://lh3.googleusercontent.com/YyOlr0MWH6kiYLQqaonUlu1JsY07gzszXhwORoqu6\_8dkG2R\_36GlSWl-n8LrYaOvspeXQbwx00ad2ajWKVDySj1--HUSqTBo88Io8xaK7CGTCystI4kCwZW\_\_lRzYld0M-1NHV-)
+![Different rock families will be introduced over time.](https://lh3.googleusercontent.com/YyOlr0MWH6kiYLQqaonUlu1JsY07gzszXhwORoqu6\_8dkG2R\_36GlSWl-n8LrYaOvspeXQbwx00ad2ajWKVDySj1--HUSqTBo88Io8xaK7CGTCystI4kCwZW\_\_lRzYld0M-1NHV-)
 
 
 

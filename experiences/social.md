@@ -1,10 +1,8 @@
 # Social
 
-![](https://lh3.googleusercontent.com/oLT9K-udnk6Xq11I2xl7otlmYV7xIRT7B-wHqA9rBwp-RVkaNy6N-gWMSriVV7W3Z317SYnJBppcxZFscqz-7Wbb8m\_xwU3A9SQHHoM\_ijeIYMe6P\_XFj97Bk7UMx4ZlxlLmj2hu)
+![Plug and play social rooms for any kind of experience.](https://lh3.googleusercontent.com/oLT9K-udnk6Xq11I2xl7otlmYV7xIRT7B-wHqA9rBwp-RVkaNy6N-gWMSriVV7W3Z317SYnJBppcxZFscqz-7Wbb8m\_xwU3A9SQHHoM\_ijeIYMe6P\_XFj97Bk7UMx4ZlxlLmj2hu)
 
-At launch, the first metaverse and rocks are geared towards social experiences, built by the core team to demonstrate possibilities using rock attributes as basic primitives.
-
-### Why social first?
+### Social experiences
 
 Fundamentally, Rove is about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
 

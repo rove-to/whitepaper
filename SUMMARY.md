@@ -5,11 +5,12 @@
 ## Metaverses
 
 * [What is a metaverse?](metaverses/what-is-a-metaverse.md)
-* [Mint a new metaverse](metaverses/mint-a-new-metaverse.md)
+* [Create a metaverse](metaverses/create-a-metaverse.md)
 
 ## Rocks
 
 * [What is a rock?](rocks/what-is-a-rock.md)
+* [Get a rock](rocks/get-a-rock.md)
 * [Rock families](rocks/rock-families.md)
 * [Rock evolution](rocks/rock-evolution.md)
 * [Rock spawning](rocks/rock-spawning.md)
@@ -24,20 +25,22 @@
 
 ## Commerce
 
+* [Commerce engine](commerce/commerce-engine.md)
 * [Tickets](commerce/tickets.md)
 * [Merchandise](commerce/merchandise.md)
 * [Crowdfund](commerce/crowdfund.md)
 
 ## Governance
 
+* [User-owned governance](governance/user-owned-governance.md)
 * [Propose](governance/propose.md)
 * [Vote](governance/vote.md)
 * [Build](governance/build.md)
 
-## Rove token
+## The Rove token
 
-* [Utility](rove-token/utility.md)
-* [Release](rove-token/release.md)
+* [Utilities](the-rove-token/utilities.md)
+* [Release schedule](the-rove-token/release-schedule.md)
 
 ## The rove digital economy
 
@@ -46,10 +49,10 @@
 * [The global economy](the-rove-digital-economy/the-global-economy.md)
 * [Taxes](the-rove-digital-economy/taxes.md)
 
-## The Company
+## The Core Team
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Mission and Values](the-core-team/mission-and-values.md)
+* [Meet the Team!](the-core-team/meet-the-team.md)
 
 ## The Formal Stuff
 

@@ -1,6 +1,6 @@
 # Rock evolution
 
-![](https://lh4.googleusercontent.com/tKcpOtBDKxrfLKH4DwpodWJGaTeFob6xjpAXRXAhrUTN\_tZNCBW4CR-YEL9h2BOJX1KvKMeps44sl6q7XbL6AWRbwkt8xD8XasmoopaU-Z4lIR57cYqy7odAR-IhyV9uuaGb8TWO)
+![The evolution of a Voronoi rock.](https://lh4.googleusercontent.com/tKcpOtBDKxrfLKH4DwpodWJGaTeFob6xjpAXRXAhrUTN\_tZNCBW4CR-YEL9h2BOJX1KvKMeps44sl6q7XbL6AWRbwkt8xD8XasmoopaU-Z4lIR57cYqy7odAR-IhyV9uuaGb8TWO)
 
 Each rock is a special kind of NFT – it evolves. Rock attributes dynamically change over time. Some changes are outwardly visible to Rovers in the metaverse, like size and color. Some are not, like gravity.
 

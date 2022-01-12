@@ -1,6 +1,6 @@
 # Rock spawning
 
-![](https://lh4.googleusercontent.com/FH3yPTGY4ux226QC6QfB96ysCWL4WouCNWbc3tPPZcb7Zx\_OwTZNPuNuNeDkE8H09mWSabumYpWYMB1CbTBuNgeRuqdgoVmmdyae0mEjBziWopUxVYjBRO\_nBHU4AOA3Xs1YhawE)
+![Any Rover can spawn a new rock from 2 existing rocks.](https://lh4.googleusercontent.com/FH3yPTGY4ux226QC6QfB96ysCWL4WouCNWbc3tPPZcb7Zx\_OwTZNPuNuNeDkE8H09mWSabumYpWYMB1CbTBuNgeRuqdgoVmmdyae0mEjBziWopUxVYjBRO\_nBHU4AOA3Xs1YhawE)
 
 
 
