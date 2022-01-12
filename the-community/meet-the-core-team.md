@@ -15,7 +15,7 @@ description: Get familiar with everyone on the core team
 
 <mark style="color:red;">❤</mark>️ Favorite rock: Voronoi
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### Billy
 
@@ -35,6 +35,6 @@ description: Get familiar with everyone on the core team
 
 <mark style="color:red;">❤</mark>️ Favorite rock: Sphero
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ****

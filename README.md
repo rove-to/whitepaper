@@ -5,7 +5,7 @@ description: Making the internet fairer and indefinitely more fun.
 
 # What is Rove
 
-![](.gitbook/assets/Rove.038.jpeg)
+![](<.gitbook/assets/image (1).png>)
 
 ## An open system of user-created metaverses
 
