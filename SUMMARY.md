@@ -5,7 +5,6 @@
 ## Metaverses
 
 * [What is a metaverse?](metaverses/what-is-a-metaverse.md)
-* [Create a metaverse](metaverses/create-a-metaverse.md)
 
 ## Rocks
 
@@ -20,27 +19,21 @@
 
 * [What is an experience?](experiences/what-is-an-experience.md)
 * [Social](experiences/social.md)
-* [Play](experiences/play.md)
 * [Work](experiences/work.md)
+* [Play](experiences/play.md)
 
 ## Commerce
 
 * [Commerce engine](commerce/commerce-engine.md)
-* [Tickets](commerce/tickets.md)
-* [Merchandise](commerce/merchandise.md)
-* [Crowdfund](commerce/crowdfund.md)
 
 ## Governance
 
 * [User-owned governance](governance/user-owned-governance.md)
-* [Propose](governance/propose.md)
-* [Vote](governance/vote.md)
-* [Build](governance/build.md)
 
 ## The Rove token
 
-* [Utilities](the-rove-token/utilities.md)
-* [Distribution](the-rove-token/distribution.md)
+* [ROVE utilities](the-rove-token/rove-utilities.md)
+* [ROVE distribution](the-rove-token/rove-distribution.md)
 
 ## The rove digital economy
 
@@ -49,14 +42,18 @@
 * [The global economy](the-rove-digital-economy/the-global-economy.md)
 * [Taxes](the-rove-digital-economy/taxes.md)
 
+## 2022 Roadmap
+
+* [Phase 0: Community (Jan)](2022-roadmap/phase-0-community-jan.md)
+* [Phase 1: Alpha (Feb)](2022-roadmap/phase-1-alpha-feb.md)
+* [Phase 2: Beta (Mar)](2022-roadmap/phase-2-beta-mar.md)
+* [Phase 3: Public (Apr)](2022-roadmap/phase-3-public-apr.md)
+* [Phase 4: Commerce (May & Jun)](2022-roadmap/phase-4-commerce-may-and-jun.md)
+* [Phase 5: Work (Jul & Aug)](2022-roadmap/phase-5-work-jul-and-aug.md)
+* [Phase 6: Play (Sep & Oct)](2022-roadmap/phase-6-play-sep-and-oct.md)
+* [Phase 7: Governance (Nov & Dec)](2022-roadmap/phase-7-governance-nov-and-dec.md)
+
 ## The Community
 
 * [The community mission](the-community/the-community-mission.md)
 * [Meet the core team!](the-community/meet-the-core-team.md)
-
-## Roadmap
-
-* [Phase 0: Community (Jan 2022)](roadmap/phase-0-community-jan-2022.md)
-* [Phase 1: Alpha (Feb 2022)](roadmap/phase-1-alpha-feb-2022.md)
-* [Phase 2: Beta (Mar 2022)](roadmap/phase-2-beta-mar-2022.md)
-* [Phase 3: Public (Apr 2022)](roadmap/phase-3-public-apr-2022.md)

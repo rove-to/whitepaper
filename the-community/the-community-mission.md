@@ -4,6 +4,6 @@ cover: >-
 coverY: 0
 ---
 
-# Mission
+# The community mission
 
-Our mission is to make the internet fairer and indefinitely more fun.
+Our mission is to make the internet fairer and infinitely more fun.

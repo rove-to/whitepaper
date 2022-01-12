@@ -18,5 +18,3 @@ The first social experiences will be built on Voronoi rocks, using a few Voronoi
 * Complexity: The more complexity a rock has, the more complex an event it can host. For example, a low-complexity rock might only support audio features and be perfect for a podcast, but rock with higher complexity might be needed to host a VR event.
 * Gravity: Social experiences in VR will use the gravity attribute to hang out while bending physics.
 
-Each social experience is an NFT. The ExperienceNFT smart contract is here.
-

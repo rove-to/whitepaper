@@ -1,4 +1,4 @@
-# Phase 0: Community (Jan 2022)
+# Phase 0: Community (Jan)
 
 We will be focused on building the community.
 
@@ -10,5 +10,10 @@ We will also release information about the project.
 
 * Source code
 * Website
-* Whitepaper
+* White paper
 * Blog
+
+We will also finalize community rewards (aka. Experience Mining) for the first Rovers who join the network.
+
+* Creator rewards
+* Audience rewards
