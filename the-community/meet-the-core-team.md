@@ -84,6 +84,16 @@ description: Get familiar with everyone on the core team
 
 ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
 
+#### Kojiro
+
+&#x20;🎨️ Visual Designer
+
+🪨 Home: Genesis Metaverse, 112, 358&#x20;
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
+
+![](<../.gitbook/assets/image (3).png>)
+
 ## VR Devs
 
 #### Hoang
