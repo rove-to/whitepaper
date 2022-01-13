@@ -7,29 +7,27 @@ description: Get familiar with everyone on the core team
 
 # Meet the core team!
 
-## Creative
+## Community
 
-#### Thinh
+#### Hong
 
-&#x20;🎨Visual Designer
+🎗️ Community Manager
 
-🏡 Address: Genesis Metaverse, 100, 125&#x20;
+🪨 Home: Genesis Metaverse, 750, 625
 
-<mark style="color:red;">❤</mark>️ Favorite rokc family: Voronoi
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
 
-​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)\
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
 
+#### Hoang
 
-#### Thinh
+🎗️ Community Manager
 
-&#x20;🎨Visual Designer
+🪨 Home: Genesis Metaverse, 750, 625
 
-🏡 Address: Genesis Metaverse, 100, 125&#x20;
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
 
-<mark style="color:red;">❤</mark>️ Favorite roc family: Voronoi
-
-​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)\
-
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
 
 ## Biz Dev
 
@@ -37,21 +35,54 @@ description: Get familiar with everyone on the core team
 
 👋 Partnership Manager
 
-🏡 Address: Genesis Metaverse, 259, 800
+🪨 Home: Genesis Metaverse, 259, 800
 
-<mark style="color:red;">❤</mark>️ Favorite roc family: Metaball
+<mark style="color:red;">❤</mark>️ Favorite rock family: Metaball
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
 
-#### Billy
+#### Khang
 
 👋 Partnership Manager
 
-🏡 Address: Genesis Metaverse, 259, 800
+🪨 Home: Genesis Metaverse, 259, 800
 
-<mark style="color:red;">❤</mark>️ Favorite roc familk: Metaball
+<mark style="color:red;">❤</mark>️ Favorite rock family: Metaball
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
+
+## Creative
+
+#### Thinh
+
+&#x20;🎨Visual Designer
+
+🪨 Home: Genesis Metaverse, 100, 125&#x20;
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
+
+​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)\
+
+
+#### Cuong
+
+&#x20;🎨Visual Designer
+
+🪨 Home: Genesis Metaverse, 100, 125&#x20;
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
+
+​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
+
+#### Ning
+
+&#x20;📖 Storyteller
+
+🪨 Home: Genesis Metaverse, 100, 125&#x20;
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
+
+​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
 
 ## VR Devs
 
@@ -59,8 +90,62 @@ description: Get familiar with everyone on the core team
 
 👷 VR Developer
 
-🏡 Address: Genesis Metaverse, 750, 625
+🪨 Home: Genesis Metaverse, 750, 625
 
 <mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
+
+#### Hoang
+
+👷 VR Developer
+
+🪨 Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
+
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
+
+## Backend Devs
+
+#### Hoang
+
+👷 VR Developer
+
+🪨 Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
+
+#### Hoang
+
+👷 VR Developer
+
+🪨 Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
+
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
+
+## Frontend Devs
+
+#### Hoang
+
+👷 VR Developer
+
+🪨 Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
+
+#### Hoang
+
+👷 VR Developer
+
+🪨 Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)
