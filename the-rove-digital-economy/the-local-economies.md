@@ -1,6 +1,12 @@
 # The local economies
 
-Each metaverse operates independently with its own local economy, rocks, experiences, tickets, and assets.
+Each metaverse is governed independently and operates its own local economy, with assets like  rocks, experiences, tickets, and objects.
+
+**Assets**\
+\
+Assets in Rove are owned by Rovers, not the Rove system. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic **non-fungible tokens** (NFTs). Unstoppable **smart contracts** are used to program relationships between these assets.
+
+**Governance**
 
 Each metaverse is a DAO with its own local governance. Rock owners are members that can vote on local policies. Metaverse DAOs work to maximize the growth of their local economy.
 
