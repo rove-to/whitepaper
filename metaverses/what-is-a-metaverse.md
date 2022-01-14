@@ -1,6 +1,6 @@
 # What is a metaverse?
 
-![Rove is composed of user-created, organic, ever-evolving metaverses.](https://lh4.googleusercontent.com/B1gbYElR5SlTUmqVbGUG9DzrolnNv03aj7-lxm1rpbmxhgy7hRSyK9hx8fS9By5h9U9Y8uc7kkx4vuwWF7NOfwJX2jpYt1toUjXQNhGd0TbI7O36coEXUfuXB15\_VZ\_R2f3Nl7i8)
+![A metaverse in Rove.](<../.gitbook/assets/image (1) (1).png>)
 
 The Rove system comprises infinite unique metaverses. Anyone can create one.
 
