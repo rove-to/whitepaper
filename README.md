@@ -22,8 +22,8 @@ Rove is permissionless. That means anyone can create a new [metaverse](broken-re
 
 Within these metaverses, anyone can host, discover, and monetize any sort of digital experience – [social](experiences/social.md), gaming, commerce, work, learning, and more.
 
-Each metaverse is [owned and operated by its inhabitants](broken-reference). Participants determine how their metaverse is run, and how their digital economy works.
+Assets in Rove are owned by Rovers, not the Rove system. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic non-fungible tokens (NFTs). Unstoppable smart contracts are used to program relationships between these assets.
 
-Assets in Rove are owned by Rovers, not the Rove system. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic **non-fungible tokens** (NFTs). Unstoppable **smart contracts** are used to program relationships between these assets.
+Each metaverse is [owned and operated by its inhabitants](broken-reference). Participants determine how their metaverse is run, and how their digital economy works.
 
 People are in charge here, not corporations or algorithms.
