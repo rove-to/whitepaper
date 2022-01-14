@@ -4,7 +4,7 @@
 
 ## Metaverses
 
-* [What is a metaverse?](metaverses/what-is-a-metaverse.md)
+* [User-created metaverses](metaverses/user-created-metaverses.md)
 
 ## Rocks
 

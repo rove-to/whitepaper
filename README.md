@@ -20,7 +20,7 @@ Rove runs on Ethereum, BSC, and Polygon, EVM-compatible and established blockcha
 
 Rove equips creators with no-code tools to host content in both familiar and exciting new mediums: VR, 3D, Streaming, Audio, Video, etc. The toolkit is designed to encourage creativity; specialized skills are not needed and anyone can create value on web3.
 
-It also gives them fairer opportunities to monetize their content. Creators decide what they earn, not platforms. They have sole control over everything they create, including all their content and any NFT assets.&#x20;
+It also gives them fairer opportunities to monetize their content . Creators decide what they earn, not platforms. They have sole control over everything they create, including all their content and any NFT assets.&#x20;
 
 **Rove is your corner of the new web.**
 
