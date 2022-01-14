@@ -56,4 +56,4 @@
 ## The Community
 
 * [Why we're building Rove](the-community/why-were-building-rove.md)
-* [Meet the core team!](the-community/meet-the-core-team.md)
+* [Meet the core team](the-community/meet-the-core-team.md)
