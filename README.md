@@ -14,7 +14,7 @@ description: >-
 
 Everything in the Rove System is permissionless by design. Anyone can create their own metaverse, populate it with diverse virtual experiences, and operate it freely outside the jurisdiction of centralized institutions and corporations.&#x20;
 
-Rove runs on Ethereum, BSC, and Polygon, EVM-compatible and established blockchains. As the industry matures, more networks will be added over time.&#x20;
+Rove runs on Ethereum, BSC, and Polygon, EVM-compatible and established blockchains. Networks will be added as the industry matures.
 
 **Rove is the toolkit for hosting and monetizing virtual experiences.**
 
