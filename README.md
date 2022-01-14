@@ -8,7 +8,7 @@ description: >-
 
 # What is Rove?
 
-![The Rove System. ](<.gitbook/assets/image (1).png>)
+![The Rove System. ](<.gitbook/assets/image (1) (1).png>)
 
 ## An open system of user-created metaverses
 
@@ -16,7 +16,7 @@ Rove challenges the prescribed future of a winner-takes-all metaverse, where rea
 
 We need to open the internet so everyone can own a piece.
 
-![An open system of user-created metaverses](<.gitbook/assets/image (3).png>)
+![An open system of user-created metaverses](<.gitbook/assets/image (1).png>)
 
 Rove is permissionless. That means anyone can create a new [metaverse](broken-reference) or take part in an existing one, making the internet fairer and probably much more fun.&#x20;
 
