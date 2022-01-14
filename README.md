@@ -8,5 +8,4 @@ description: >-
 
 # What is Rove?
 
-![Explore web3 and experience something new.](.gitbook/assets/metaverse.png)
-
+![Create and explore new web3 experiences.](.gitbook/assets/metaverse.png)

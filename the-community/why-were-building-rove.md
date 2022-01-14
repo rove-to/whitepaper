@@ -6,6 +6,8 @@ coverY: 0
 
 # Why we're building Rove
 
-Rove challenges the prescribed future of a winner-takes-all metaverse, where reality is dictated by monopolistic, centralized corporations. We don’t need to amplify web2 issues across additional dimensions. \
+![Our vision for web3.](../.gitbook/assets/closedmetaverse.png)
+
+Rove challenges the prescribed future of a winner-takes-all metaverse, where reality is dictated by monopolistic, centralized corporations. We don’t need to amplify web2 issues across additional dimensions.\
 \
 Our mission is to open the internet so everyone can own a piece.

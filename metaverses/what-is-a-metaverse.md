@@ -1,6 +1,6 @@
 # What is a metaverse?
 
-![User-created, community-run metaverses.](<../.gitbook/assets/Screen Shot 2022-01-14 at 2.29.31 PM.png>)
+![Rove is composed of user-created, organic, ever-evolving metaverses.](<../.gitbook/assets/Screen Shot 2022-01-14 at 2.29.31 PM.png>)
 
 Rove is an open system of user-created metaverses. Anyone can create a metaverse for their community, common interest group, shared cause, and any reason for people to come together. \
 \
