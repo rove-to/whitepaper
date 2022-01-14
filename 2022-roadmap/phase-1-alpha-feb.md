@@ -1,9 +1,9 @@
 # Phase 1: Alpha (Feb)
 
-The first members of the community will get to experience the Alpha version of Rove. You'll be the first to experience different key elements of Rove such as metaverses, rocks, and experiences.
+The Alpha version will include the first examples of different key elements of Rove, such as metaverses, rocks, and experiences.&#x20;
 
-The Alpha release will include:
+Phase 1 will include:
 
-* [Metaverses](broken-reference): Only one metaverse, created by the core team
-* [Rocks](broken-reference): Only one rock family, the Voronoi
-* [Experiences](broken-reference): Only social experiences, with audio, video, streaming, spatial, and VR.&#x20;
+* [Metaverses](broken-reference): The first metaverse, created by the core team
+* [Rocks](broken-reference): The first rock family, Voronoi
+* [Experiences](broken-reference): User-created social experiences in audio, video, streaming, spatial, and VR&#x20;
