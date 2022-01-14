@@ -13,7 +13,7 @@ Foundational information will also be released to the public.
 * White paper
 * Blog
 
-Community rewards (e.g. Experience Mining) will be finalized for the first Rovers of he network.
+Community rewards (e.g. Experience Mining) will be finalized for the first Rovers of the network.
 
 * Creator rewards
 * Audience rewards
