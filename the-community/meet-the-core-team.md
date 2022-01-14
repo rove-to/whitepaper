@@ -86,13 +86,13 @@ description: Get familiar with everyone on the core team
 
 #### Kojiro
 
-&#x20;🎨️ Visual Designer
+🎨️ Visual Designer
 
 🪨 Home: Genesis Metaverse, 112, 358&#x20;
 
 <mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ## VR Devs
 
