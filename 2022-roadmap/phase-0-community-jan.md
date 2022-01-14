@@ -1,19 +1,19 @@
 # Phase 0: Community (Jan)
 
-We will be focused on building the community.
+In this phase, the core team will focus on building the Rove community across different platforms.
 
-* Telegram community
-* Twitter community
-* Discord community
+* Telegram&#x20;
+* Twitter&#x20;
+* Discord&#x20;
 
-We will also release information about the project.
+Foundational information will also be released to the public.
 
 * Source code
 * Website
 * White paper
 * Blog
 
-We will also finalize community rewards (aka. Experience Mining) for the first Rovers who join the network.
+Community rewards (e.g. Experience Mining) will be finalized for the first Rovers of he network.
 
 * Creator rewards
 * Audience rewards
