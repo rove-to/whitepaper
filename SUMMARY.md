@@ -45,7 +45,6 @@
 ## 2022 Roadmap
 
 * [Product roadmap](2022-roadmap/product-roadmap.md)
-* [Phase 0: Community (Jan)](2022-roadmap/phase-0-community-jan.md)
 * [Phase 1: Alpha (Q1)](2022-roadmap/phase-1-alpha-q1.md)
 * [Phase 2: Beta (Q2)](2022-roadmap/phase-2-beta-q2.md)
 * [Phase 3: Public (Q3)](2022-roadmap/phase-3-public-q3.md)
