@@ -44,14 +44,12 @@
 
 ## 2022 Roadmap
 
+* [Product roadmap](2022-roadmap/product-roadmap.md)
 * [Phase 0: Community (Jan)](2022-roadmap/phase-0-community-jan.md)
-* [Phase 1: Alpha (Feb)](2022-roadmap/phase-1-alpha-feb.md)
-* [Phase 2: Beta (Mar)](2022-roadmap/phase-2-beta-mar.md)
-* [Phase 3: Public (Apr)](2022-roadmap/phase-3-public-apr.md)
-* [Phase 4: Commerce (May & Jun)](2022-roadmap/phase-4-commerce-may-and-jun.md)
-* [Phase 5: Work (Jul & Aug)](2022-roadmap/phase-5-work-jul-and-aug.md)
-* [Phase 6: Play (Sep & Oct)](2022-roadmap/phase-6-play-sep-and-oct.md)
-* [Phase 7: Governance (Nov & Dec)](2022-roadmap/phase-7-governance-nov-and-dec.md)
+* [Phase 1: Alpha (Q1)](2022-roadmap/phase-1-alpha-q1.md)
+* [Phase 2: Beta (Q2)](2022-roadmap/phase-2-beta-q2.md)
+* [Phase 3: Public (Q3)](2022-roadmap/phase-3-public-q3.md)
+* [Future work](2022-roadmap/future-work.md)
 
 ## The Community
 
