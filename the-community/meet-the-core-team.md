@@ -7,29 +7,41 @@ description: Get familiar with everyone on the core team
 
 # 🥳 Meet the core team
 
-## Rove architects
+## Partnerships
 
-#### Kojiro
+#### Billy
 
-🎨️ CEO
+👋 Relationship Builder
 
-🪨 Home: Genesis Metaverse, 112, 358&#x20;
+🪨 Home: Genesis Metaverse, 259, 800
 
-<mark style="color:red;">❤</mark>️ Favorite rock family: Voron
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sph
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/ReadyPlayerMe-Avatar (4).png>)
+
+#### Khang
+
+👋 Relationship Builder
+
+🪨 Home: Genesis Metaverse, 259, 800
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Metaball
+
+![](../.gitbook/assets/ReadyPlayerMe-Domin.png)
+
+####
+
+## Devs
 
 #### Nhat
 
 👷Product Owner - Tech Lead
 
-� Home: Genesis Metaverse, 750, 625
+� Home: Genesis Metaverse, 750, 62
 
 <mark style="color:red;">❤</mark>️ Favorite rock: Sphero
 
 ![](<../.gitbook/assets/Image from iOS.jpg>)
-
-## Devs
 
 #### Hitle
 
@@ -41,7 +53,23 @@ description: Get familiar with everyone on the core team
 
 ![](../.gitbook/assets/kQNKD3vJD.png)
 
-#### Huu Dung
+#### SML
+
+👷VR Dev
+
+� Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+
+#### Minh01
+
+👷VR Dev
+
+� Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+
+#### Huu
 
 👷 Front-end Dev
 
@@ -51,11 +79,27 @@ description: Get familiar with everyone on the core team
 
 ![](<../.gitbook/assets/man-g (1).png>)
 
+#### Long
+
+👷Backend Dev
+
+� Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+
+#### Stone
+
+👷Backend Dev
+
+� Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+
 ## `Community`
 
 #### Irene\_The\_Ranger
 
-🎗️ Community Manager
+🎗️ Community Builder
 
 🪨 Home: Genesis Metaverse, 750, 625
 
@@ -73,33 +117,13 @@ description: Get familiar with everyone on the core team
 
 ![](<../.gitbook/assets/ReadyPlayerMe-Avatar (1).png>)
 
-## Biz Dev
 
-#### Billy
-
-👋 Head of Partnerships&#x20;
-
-🪨 Home: Genesis Metaverse, 259, 800
-
-<mark style="color:red;">❤</mark>️ Favorite rock family: Sph
-
-![](<../.gitbook/assets/ReadyPlayerMe-Avatar (4).png>)
-
-#### Khang
-
-👋 Partnership Associate
-
-🪨 Home: Genesis Metaverse, 259, 800
-
-<mark style="color:red;">❤</mark>️ Favorite rock family: Metaball
-
-![](../.gitbook/assets/ReadyPlayerMe-Domin.png)
 
 ## Creative
 
 #### 131Pow
 
-&#x20;🎨Illustration Maker
+&#x20;🎨Illusion Maker
 
 🪨 Home: Genesis Metaverse, 100, 125&#x20;
 
@@ -108,15 +132,7 @@ description: Get familiar with everyone on the core team
 ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)\
 
 
-#### Cuong
 
-&#x20;🎨Art Director
-
-🪨 Home: Genesis Metaverse, 100, 125&#x20;
-
-<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
-
-​![](../.gitbook/assets/man-g.png)
 
 #### Bob
 
@@ -127,5 +143,17 @@ description: Get familiar with everyone on the core team
 <mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
 
 ​![](<../.gitbook/assets/ning avatar.png>)
+
+#### Kojiro
+
+🎨️ Visual Designer
+
+🪨 Home: Genesis Metaverse, 112, 358&#x20;
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voron
+
+![](<../.gitbook/assets/image (1) (2).png>)
+
+####
 
 ##
