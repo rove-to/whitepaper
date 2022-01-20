@@ -2,14 +2,14 @@
 
 * [What is Rove?](README.md)
 
-## USER-CREATED IMMERSIVE WEB
+## THE USER-CREATED IMMERSIVE WEB
 
-* [Metaverses](user-created-immersive-web/metaverses.md)
-* [Rocks](user-created-immersive-web/rocks/README.md)
-  * [Rock spawning](user-created-immersive-web/rocks/rock-spawning.md)
-  * [Rock evolution](user-created-immersive-web/rocks/rock-evolution.md)
-  * [Rock families](user-created-immersive-web/rocks/rock-families.md)
-* [Objects](user-created-immersive-web/objects.md)
+* [Metaverses](the-user-created-immersive-web/metaverses.md)
+* [Rocks](the-user-created-immersive-web/rocks/README.md)
+  * [Rock spawning](the-user-created-immersive-web/rocks/rock-spawning.md)
+  * [Rock evolution](the-user-created-immersive-web/rocks/rock-evolution.md)
+  * [Rock families](the-user-created-immersive-web/rocks/rock-families.md)
+* [Objects](the-user-created-immersive-web/objects.md)
 
 ## Hang out in the immersive web
 
@@ -33,7 +33,7 @@
 
 ## 2022 Roadmap
 
-* [Product roadmap](2022-roadmap/product-roadmap.md)
+* [Overview](2022-roadmap/overview.md)
 * [Alpha](2022-roadmap/alpha.md)
 * [Beta](2022-roadmap/beta.md)
 * [Public](2022-roadmap/public.md)

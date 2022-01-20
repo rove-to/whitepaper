@@ -6,8 +6,8 @@ Rovers hold their own private keys and have sole control over their assets, repr
 
 Assets that can be bought and sold include:
 
-* [Rocks](../user-created-immersive-web/rocks/)
-* [Objects](../user-created-immersive-web/objects.md)
+* [Rocks](../the-user-created-immersive-web/rocks/)
+* [Objects](../the-user-created-immersive-web/objects.md)
 * Tickets
 
 And more as the Rove evolves.
