@@ -1,3 +1,3 @@
 # Product roadmap
 
-![](../.gitbook/assets/Rove.001.jpeg)
+![Product roadmap](<../.gitbook/assets/image (6).png>)

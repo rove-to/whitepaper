@@ -2,42 +2,30 @@
 
 * [What is Rove?](README.md)
 
-## Metaverses
+## USER-CREATED WORLDS
 
-* [User-created metaverses](metaverses/user-created-metaverses.md)
+* [Metaverses](user-created-worlds/metaverses.md)
+* [Rocks](user-created-worlds/rocks/README.md)
+  * [Rock families](user-created-worlds/rocks/rock-families.md)
+  * [Rock evolution](user-created-worlds/rocks/rock-evolution.md)
+  * [Rock spawning](user-created-worlds/rocks/rock-spawning.md)
 
-## Rocks
+## Social Experiences
 
-* [What is a rock?](rocks/what-is-a-rock.md)
-* [Get a rock](rocks/get-a-rock.md)
-* [Rock families](rocks/rock-families.md)
-* [Rock evolution](rocks/rock-evolution.md)
-* [Rock spawning](rocks/rock-spawning.md)
-* [Rock owners](rocks/rock-owners.md)
+* [What is a social experience?](social-experiences/what-is-a-social-experience.md)
+* [Hang out with your friends](social-experiences/hang-out-with-your-friends.md)
+* [Adventure with your community](social-experiences/adventure-with-your-community.md)
+* [Relax with your team](social-experiences/relax-with-your-team.md)
 
-## Experiences
+## Web3
 
-* [What is an experience?](experiences/what-is-an-experience.md)
-* [Social](experiences/social.md)
-* [Work](experiences/work.md)
-* [Play](experiences/play.md)
-
-## Commerce
-
-* [Commerce engine](commerce/commerce-engine.md)
-
-## Governance
-
-* [User-owned governance](governance/user-owned-governance.md)
-
-## The Rove token
-
-* [ROVE utilities](the-rove-token/rove-utilities.md)
-* [ROVE distribution](the-rove-token/rove-distribution.md)
+* [Trustless commerce](web3/trustless-commerce.md)
+* [User-owned governance](web3/user-owned-governance.md)
 
 ## The rove digital economy
 
-* [Main roles](the-rove-digital-economy/main-roles.md)
+* [The ROVE token](the-rove-digital-economy/the-rove-token.md)
+* [The main economic agents](the-rove-digital-economy/the-main-economic-agents.md)
 * [The local economies](the-rove-digital-economy/the-local-economies.md)
 * [The global economy](the-rove-digital-economy/the-global-economy.md)
 * [Taxes](the-rove-digital-economy/taxes.md)
@@ -45,9 +33,9 @@
 ## 2022 Roadmap
 
 * [Product roadmap](2022-roadmap/product-roadmap.md)
-* [Phase 1: Alpha (Q1)](2022-roadmap/phase-1-alpha-q1.md)
-* [Phase 2: Beta (Q2)](2022-roadmap/phase-2-beta-q2.md)
-* [Phase 3: Public (Q3)](2022-roadmap/phase-3-public-q3.md)
+* [Phase 1: Alpha](2022-roadmap/phase-1-alpha.md)
+* [Phase 2: Beta](2022-roadmap/phase-2-beta.md)
+* [Phase 3: Public](2022-roadmap/phase-3-public.md)
 * [Future work](2022-roadmap/future-work.md)
 
 ## The Community
