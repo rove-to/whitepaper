@@ -26,7 +26,7 @@
 ## The rove digital economy
 
 * [The ROVE token](the-rove-digital-economy/the-rove-token.md)
-* [The main economic agents](the-rove-digital-economy/the-main-economic-agents.md)
+* [The economic agents](the-rove-digital-economy/the-economic-agents.md)
 * [The local economies](the-rove-digital-economy/the-local-economies.md)
 * [The global economy](the-rove-digital-economy/the-global-economy.md)
 * [Taxes](the-rove-digital-economy/taxes.md)
