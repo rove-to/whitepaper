@@ -2,7 +2,7 @@
 cover: >-
   https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
 coverY: 0
-description: Get familiar with everyone on the core team
+description: Get familiar with everyone on the core team.
 ---
 
 # 🥳 Meet the core team
@@ -11,21 +11,21 @@ description: Get familiar with everyone on the core team
 
 #### Billy
 
-👋 Relationship Builder
+👋 People Person
 
 🪨 Home: Genesis Metaverse, 259, 800
 
-<mark style="color:red;">❤</mark>️ Favorite rock family: Sph
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
 
 ![](<../.gitbook/assets/ReadyPlayerMe-Avatar (4).png>)
 
-#### Khang
+#### Domin
 
-👋 Relationship Builder
+👋 Matchmaker
 
 🪨 Home: Genesis Metaverse, 259, 800
 
-<mark style="color:red;">❤</mark>️ Favorite rock family: Metaball
+<mark style="color:red;">❤</mark>️ Favorite rock family: Lava
 
 ![](../.gitbook/assets/ReadyPlayerMe-Domin.png)
 
@@ -33,9 +33,9 @@ description: Get familiar with everyone on the core team
 
 ## Devs
 
-#### Nhat
+#### Mashi
 
-👷Product Owner - Tech Lead
+👷 Reality Checker
 
 � Home: Genesis Metaverse, 750, 62
 
@@ -45,7 +45,7 @@ description: Get familiar with everyone on the core team
 
 #### Hitle
 
-👷 VR Developer
+👷 Spatial Cadet
 
 🪨 Home: Genesis Metaverse, 750, 625
 
@@ -53,53 +53,21 @@ description: Get familiar with everyone on the core team
 
 ![](../.gitbook/assets/kQNKD3vJD.png)
 
-#### SML
-
-👷VR Dev
-
-� Home: Genesis Metaverse, 750, 625
-
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
-
-#### Minh01
-
-👷VR Dev
-
-� Home: Genesis Metaverse, 750, 625
-
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
-
 #### Huu
 
-👷 Front-end Dev
+👷 Map Creator
 
 🪨 Home: Genesis Metaverse, 750, 625
 
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+<mark style="color:red;">❤</mark>️ Favorite rock: Voronoi
 
 ![](<../.gitbook/assets/man-g (1).png>)
-
-#### Long
-
-👷Backend Dev
-
-� Home: Genesis Metaverse, 750, 625
-
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
-
-#### Stone
-
-👷Backend Dev
-
-� Home: Genesis Metaverse, 750, 625
-
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
 
 ## `Community`
 
 #### Irene\_The\_Ranger
 
-🎗️ Community Builder
+🎗️ Extrovert
 
 🪨 Home: Genesis Metaverse, 750, 625
 
@@ -109,11 +77,11 @@ description: Get familiar with everyone on the core team
 
 #### Ryan
 
-👋 Community Moderator
+👋 Peacemaker
 
 🪨 Home: Genesis Metaverse, 259, 800
 
-<mark style="color:red;">❤</mark>️ Favorite rock family:
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
 
 ![](<../.gitbook/assets/ReadyPlayerMe-Avatar (1).png>)
 
@@ -123,11 +91,11 @@ description: Get familiar with everyone on the core team
 
 #### 131Pow
 
-&#x20;🎨Illusion Maker
+&#x20;🎨 Illusion Maker
 
 🪨 Home: Genesis Metaverse, 100, 125&#x20;
 
-<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
 
 ​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeFeQJg5CKOo1s6JUR7s7%2Fuploads%2FaUmQltp9f5mZI7kCP2tX%2Fimage.png?alt=media\&token=ef07402f-0c4d-4f6c-b8d9-6c5d47b8d8e7)\
 
@@ -150,7 +118,7 @@ description: Get familiar with everyone on the core team
 
 🪨 Home: Genesis Metaverse, 112, 358&#x20;
 
-<mark style="color:red;">❤</mark>️ Favorite rock family: Voron
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
 
 ![](<../.gitbook/assets/image (1) (2).png>)
 
