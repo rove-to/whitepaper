@@ -39,7 +39,7 @@ description: Get familiar with everyone on the core team.
 
 � Home: Genesis Metaverse, 750, 62
 
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
 
 ![](<../.gitbook/assets/Image from iOS.jpg>)
 
@@ -49,7 +49,7 @@ description: Get familiar with everyone on the core team.
 
 🪨 Home: Genesis Metaverse, 750, 625
 
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
 
 ![](../.gitbook/assets/kQNKD3vJD.png)
 
@@ -59,7 +59,7 @@ description: Get familiar with everyone on the core team.
 
 🪨 Home: Genesis Metaverse, 750, 625
 
-<mark style="color:red;">❤</mark>️ Favorite rock: Voronoi
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
 
 ![](<../.gitbook/assets/man-g (1).png>)
 
@@ -71,7 +71,7 @@ description: Get familiar with everyone on the core team.
 
 🪨 Home: Genesis Metaverse, 750, 625
 
-<mark style="color:red;">❤</mark>️ Favorite rock: Sphero
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
 
 ![](../.gitbook/assets/ReadyPlayerMe-Avatar.png)
 
