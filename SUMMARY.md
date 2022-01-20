@@ -6,9 +6,10 @@
 
 * [Metaverses](user-created-worlds/metaverses.md)
 * [Rocks](user-created-worlds/rocks/README.md)
-  * [Rock families](user-created-worlds/rocks/rock-families.md)
-  * [Rock evolution](user-created-worlds/rocks/rock-evolution.md)
   * [Rock spawning](user-created-worlds/rocks/rock-spawning.md)
+  * [Rock evolution](user-created-worlds/rocks/rock-evolution.md)
+  * [Rock families](user-created-worlds/rocks/rock-families.md)
+* [Objects](user-created-worlds/objects.md)
 
 ## Social Experiences
 
