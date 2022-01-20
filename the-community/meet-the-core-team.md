@@ -91,7 +91,7 @@ description: Get familiar with everyone on the core team.
 
 #### 131Pow
 
-&#x20;🎨 Illusion Maker
+&#x20;🎨 Illusionist
 
 🪨 Home: Genesis Metaverse, 100, 125&#x20;
 
