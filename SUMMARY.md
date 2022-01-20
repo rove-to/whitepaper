@@ -34,9 +34,9 @@
 ## 2022 Roadmap
 
 * [Product roadmap](2022-roadmap/product-roadmap.md)
-* [Phase 1: Alpha](2022-roadmap/phase-1-alpha.md)
-* [Phase 2: Beta](2022-roadmap/phase-2-beta.md)
-* [Phase 3: Public](2022-roadmap/phase-3-public.md)
+* [Alpha](2022-roadmap/alpha.md)
+* [Beta](2022-roadmap/beta.md)
+* [Public](2022-roadmap/public.md)
 * [Future work](2022-roadmap/future-work.md)
 
 ## The Community
