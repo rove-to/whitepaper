@@ -2,21 +2,21 @@
 
 * [What is Rove?](README.md)
 
-## USER-CREATED WORLDS
+## USER-CREATED IMMERSIVE WEB
 
-* [Metaverses](user-created-worlds/metaverses.md)
-* [Rocks](user-created-worlds/rocks/README.md)
-  * [Rock spawning](user-created-worlds/rocks/rock-spawning.md)
-  * [Rock evolution](user-created-worlds/rocks/rock-evolution.md)
-  * [Rock families](user-created-worlds/rocks/rock-families.md)
-* [Objects](user-created-worlds/objects.md)
+* [Metaverses](user-created-immersive-web/metaverses.md)
+* [Rocks](user-created-immersive-web/rocks/README.md)
+  * [Rock spawning](user-created-immersive-web/rocks/rock-spawning.md)
+  * [Rock evolution](user-created-immersive-web/rocks/rock-evolution.md)
+  * [Rock families](user-created-immersive-web/rocks/rock-families.md)
+* [Objects](user-created-immersive-web/objects.md)
 
-## Social Experiences
+## Hang out in the immersive web
 
-* [What is a social experience?](social-experiences/what-is-a-social-experience.md)
-* [Hang out with your friends](social-experiences/hang-out-with-your-friends.md)
-* [Adventure with your community](social-experiences/adventure-with-your-community.md)
-* [Relax with your team](social-experiences/relax-with-your-team.md)
+* [What is a social experience?](hang-out-in-the-immersive-web/what-is-a-social-experience.md)
+* [Hang out with your friends](hang-out-in-the-immersive-web/hang-out-with-your-friends.md)
+* [Hang out with your community](hang-out-in-the-immersive-web/hang-out-with-your-community.md)
+* [Hang out with your team](hang-out-in-the-immersive-web/hang-out-with-your-team.md)
 
 ## Web3
 
@@ -25,7 +25,7 @@
 
 ## The rove digital economy
 
-* [The ROVE token](the-rove-digital-economy/the-rove-token.md)
+* [The Rove token](the-rove-digital-economy/the-rove-token.md)
 * [The economic agents](the-rove-digital-economy/the-economic-agents.md)
 * [The local economies](the-rove-digital-economy/the-local-economies.md)
 * [The global economy](the-rove-digital-economy/the-global-economy.md)

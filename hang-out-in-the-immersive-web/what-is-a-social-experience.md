@@ -8,9 +8,9 @@ At launch, the first metaverse and rocks are geared towards social experiences, 
 
 ## Social experiences
 
-Fundamentally, Rove is about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
-
 ![Meet your friends in virtual reality.](../.gitbook/assets/Home\_01.png)
+
+Fundamentally, Rove is about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
 
 We think social is a good starting point from which to grow the Rove System.
 
