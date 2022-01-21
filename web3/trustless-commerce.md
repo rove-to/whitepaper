@@ -1,6 +1,8 @@
 # Trustless commerce
 
-Everything in the Rove System is permissionless by design. Assets in Rove are owned by Rovers, not the Rove system. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic **non-fungible tokens** (NFTs).&#x20;
+Everything in the Rove System is permissionless by design. Assets in Rove are owned by Rovers, not the Rove system.&#x20;
+
+Rovers hold their own private keys and have sole control over their assets, represented by cryptographic **non-fungible tokens** (NFTs).&#x20;
 
 Buying and selling assets are done via trustless **smart contracts**.
 
