@@ -2,7 +2,7 @@
 
 The first priority is to fix bugs and fine-tune key features based on the community feedback on the Alpha version. &#x20;
 
-In this release, we will see crypto elements incorporated into Rove, including the [Rove token](../the-rove-digital-economy/the-rove-token.md) and the NFT [smart contracts](https://github.com/rove-to/evm-smart-contracts/tree/main/contracts) of [metaverses](../the-user-created-immersive-web/metaverses.md), [rocks](../the-user-created-immersive-web/rocks/), and [social experiences](../hang-out-in-the-immersive-web/what-is-a-social-experience.md).&#x20;
+In this release, we will see crypto elements incorporated into Rove, including the [Rove token](../the-rove-digital-economy/the-rove-token.md) and the NFT [smart contracts](https://github.com/rove-to/evm-smart-contracts/tree/main/contracts) of [metaverses](../the-user-created-immersive-web/metaverses.md), [rocks](../the-user-created-immersive-web/rocks/), and [social experiences](../hang-out-in-the-immersive-web/social-experiences.md).&#x20;
 
 **The user-created immersive web**
 

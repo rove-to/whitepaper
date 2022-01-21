@@ -14,7 +14,7 @@
 
 ## Hang out in the immersive web
 
-* [What is a social experience?](hang-out-in-the-immersive-web/what-is-a-social-experience.md)
+* [Social experiences](hang-out-in-the-immersive-web/social-experiences.md)
 * [Hang out with your friends](hang-out-in-the-immersive-web/hang-out-with-your-friends.md)
 * [Hang out with your community](hang-out-in-the-immersive-web/hang-out-with-your-community.md)
 * [Hang out with your team](hang-out-in-the-immersive-web/hang-out-with-your-team.md)

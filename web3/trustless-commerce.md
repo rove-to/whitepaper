@@ -13,6 +13,6 @@ Within Rove, every piece of user-created content is an NFT asset. Assets that ca
 * [Rocks](../the-user-created-immersive-web/rocks/)
 * Environments&#x20;
 * [Objects](../the-user-created-immersive-web/objects.md)
-* [Experiences](../hang-out-in-the-immersive-web/what-is-a-social-experience.md)
+* [Experiences](../hang-out-in-the-immersive-web/social-experiences.md)
 
 And more as Rove evolves.
