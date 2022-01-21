@@ -1,37 +1,33 @@
-# The ROVE token
+# The Rove token
 
 ## ROVE utilities
 
-Rove (ROVE) is the native cryptocurrency of the Rove System. It is an ERC-20 utility token used for all transactions across all Rove metaverses.
+Rove (ROVE) is the native cryptocurrency of the Rove System. It is a utility token used for all transactions across all metaverses within Rove.
 
 Use Rove to:
 
-* Buy a rock to host your own experience&#x20;
-* Buy a ticket to attend your favorite experience&#x20;
-* Buy a cool object to decorate your rock&#x20;
-* Pay for hosting fees&#x20;
-* Pay other creators to co-host experiences with you&#x20;
+* Buy a rock
+* Spawn a rock
 * Rent a rock
+* Buy an environment
+* Buy a cool object to decorate your rock&#x20;
 
 And more as the Rove economy grows.
 
-## ROVE distribution
+## ROVE tokenomics
 
-Rove has a fixed supply of 1 billion.
+We want the best tokenomics for Rove and Rovers. At the same time, we understand that it is very difficult to get tokenomics right. Unlike a regular product feature that can be shipped and re-shipped, we can only ship tokenomics once. So, we will take our time.
 
-### Release schedule:
+The tokenomics for Rove will only be finalized and released at the Public launch. The Alpha and Beta releases give us the opportunity to study and fine-tune the Rove economy.
 
-* 40% released in the first year&#x20;
-* 30% released in the second year&#x20;
-* 20% released in the third year&#x20;
-* 10% released in the fourth year
+While the tokenomics for Rove is still a work in progress, we think it's important to share with the community how we're thinking about doing it.
 
-### Distribution:
+* While capital is important, we want to favor more active contributors and less towards those merely providing capital.
+* We want to put Rove tokens directly into the hands of those who are consistently creating meaningful value for the Rove system and the Rove community.&#x20;
+* We want to put the majority of the token distribution towards the community.
 
-* 65% for Rove users&#x20;
-  * 15% for Ecosystem Incentives
-  * 50% for the Community Treasury&#x20;
-* 20% for current and future team members&#x20;
-* 10% reserved for Token Sales&#x20;
-* 5% reserved for Exchange Liquidity
+While everything is still up in the air, there is one sure thing: we will reward Rovers who actively participate in the Alpha and Beta releases.&#x20;
 
+During the Alpha and Beta releases, you will be given Rove testnet tokens.  You can use these testnet tokens to mint your own metaverse, spawn your own rocks, customize your environments, and trade cool objects - while having a great time hanging out with your friends in the immersive web.
+
+Great tokenization comes great responsibility :)&#x20;
