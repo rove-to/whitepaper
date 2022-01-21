@@ -21,6 +21,6 @@ Rove runs on Ethereum, BSC, and Polygon, EVM-compatible and established blockcha
 
 **Rove is your corner of the new web.**
 
-It can be as big or small as you want it. A fancy apartment or a leaky tent. Sit next to your best friend and chat through a movie. Throw a house party in VR.
+It can be as big or small as you want it. A fancy apartment or a leaky tent. Sit next to your best friend and chat through a movie. Host your next community AMA around a campfire. Throw a house party in VR.
 
 You hold the keys to it, and everything in it.&#x20;
