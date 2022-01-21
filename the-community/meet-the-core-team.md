@@ -31,13 +31,37 @@ description: Get familiar with everyone on the core team.
 
 ####
 
+## Community
+
+#### Irene\_The\_Ranger
+
+🎗️ Extrovert
+
+🪨 Home: Genesis Metaverse, 750, 625
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
+
+![](../.gitbook/assets/ReadyPlayerMe-Avatar.png)
+
+#### Ryan
+
+👋 Peacemaker
+
+🪨 Home: Genesis Metaverse, 259, 800
+
+<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
+
+![](<../.gitbook/assets/ReadyPlayerMe-Avatar (1).png>)
+
+
+
 ## Devs
 
 #### Mashi
 
 👷 Reality Checker
 
-� Home: Genesis Metaverse, 750, 62
+🪨 Home: Genesis Metaverse, 750, 62
 
 <mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
 
@@ -62,30 +86,6 @@ description: Get familiar with everyone on the core team.
 <mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
 
 ![](<../.gitbook/assets/man-g (1).png>)
-
-## `Community`
-
-#### Irene\_The\_Ranger
-
-🎗️ Extrovert
-
-🪨 Home: Genesis Metaverse, 750, 625
-
-<mark style="color:red;">❤</mark>️ Favorite rock family: Sphero
-
-![](../.gitbook/assets/ReadyPlayerMe-Avatar.png)
-
-#### Ryan
-
-👋 Peacemaker
-
-🪨 Home: Genesis Metaverse, 259, 800
-
-<mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
-
-![](<../.gitbook/assets/ReadyPlayerMe-Avatar (1).png>)
-
-
 
 ## Creative
 

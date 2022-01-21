@@ -6,7 +6,7 @@ The Alpha version will include the first examples of different key elements of R
 
 * Metaverses: The first metaverse, with about 10 public rocks and 90 private rocks
 * Rocks: The first rock family, Voronoi
-* Environments: The first 10 environments across public spaces, residential spaces, and interesting places
+* Environments: The first 10 environments across public spaces, residential spaces, and exciting places
 
 **Hang out in the immersive web**
 

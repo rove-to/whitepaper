@@ -1,14 +1,14 @@
 # Beta
 
-The first priority is to fix bugs and fine-tune key features based on the community feedback on the Alpha version. &#x20;
+The priority is to fix bugs and fine-tune critical features based on the community feedback on the Alpha version. &#x20;
 
-In this release, we will see crypto elements incorporated into Rove, including the [Rove token](../the-rove-digital-economy/the-rove-token.md) and the NFT [smart contracts](https://github.com/rove-to/evm-smart-contracts/tree/main/contracts) of [metaverses](../the-user-created-immersive-web/metaverses.md), [rocks](../the-user-created-immersive-web/rocks/), and [social experiences](../hang-out-in-the-immersive-web/social-experiences.md).&#x20;
+This release will see crypto elements incorporated into Rove, including the [Rove token](../the-rove-digital-economy/the-rove-token.md) and the NFT [smart contracts](https://github.com/rove-to/evm-smart-contracts/tree/main/contracts) of [metaverses](../the-user-created-immersive-web/metaverses.md), [rocks](../the-user-created-immersive-web/rocks/), and [social experiences](../hang-out-in-the-immersive-web/social-experiences.md).&#x20;
 
 **The user-created immersive web**
 
 * Metaverses: 3 metaverses
 * Rocks: Rovers can spawn their own rocks
-* Environments: 20 environments across public spaces, residential spaces, and interesting places
+* Environments: 20 environments across public spaces, residential spaces, and exciting places
 * Objects: The first 10 objects
 
 **Hang out in the immersive web**
