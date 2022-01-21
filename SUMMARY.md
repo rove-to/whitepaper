@@ -9,6 +9,7 @@
   * [Rock spawning](the-user-created-immersive-web/rocks/rock-spawning.md)
   * [Rock evolution](the-user-created-immersive-web/rocks/rock-evolution.md)
   * [Rock families](the-user-created-immersive-web/rocks/rock-families.md)
+* [Environments](the-user-created-immersive-web/environments.md)
 * [Objects](the-user-created-immersive-web/objects.md)
 
 ## Hang out in the immersive web

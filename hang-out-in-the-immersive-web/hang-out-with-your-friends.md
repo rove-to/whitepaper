@@ -1,6 +1,6 @@
 # Hang out with your friends
 
-![Hang out with your friends at your home rock.](<../.gitbook/assets/Home\_01 (1).png>)
+![Hang out with your friends at your home rock.](<../.gitbook/assets/Home\_01 (1) (1).png>)
 
 ## Meet your friends in virtual reality.
 

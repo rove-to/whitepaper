@@ -1,3 +1,3 @@
-# Product roadmap
+# Overview
 
-![Product roadmap](<../.gitbook/assets/image (6).png>)
+![Product roadmap](<../.gitbook/assets/image (6) (1).png>)

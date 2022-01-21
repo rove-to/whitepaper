@@ -8,6 +8,8 @@ Rocks have attributes common to their local metaverses – such as density, size
 
 Think of Rock attributes as basic primitives that can be used in infinite ways – like a deck of cards. Creators can interpret these attributes however they like to build unique and engaging experiences – like Blackjack or Poker.
 
+Rocks are NFTs within Rove.
+
 ## How to get a rock
 
 Rovers acquire rocks in a few different ways:
