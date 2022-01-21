@@ -2,15 +2,17 @@
 
 ## ROVE utilities
 
-Rove (ROVE) is the native cryptocurrency of the Rove System. It is a utility token used for all transactions across all metaverses within Rove.
+Rove Token (ROVE) is the native cryptocurrency of the Rove System. It is a utility token used for all transactions across all metaverses within Rove.
 
 Use Rove to:
 
+* Mint a metaverse
 * Buy a rock
 * Spawn a rock
 * Rent a rock
 * Buy an environment
 * Buy a cool object to decorate your rock&#x20;
+* Buy a ticket to attend your favorite experience
 
 And more as the Rove economy grows.
 
@@ -20,7 +22,7 @@ We want the best tokenomics for Rove and Rovers. At the same time, we understand
 
 The tokenomics for Rove will only be finalized and released at the Public launch. The Alpha and Beta releases give us the opportunity to study and fine-tune the Rove economy.
 
-While the tokenomics for Rove is still a work in progress, we think it's important to share with the community how we're thinking about doing it.
+While the tokenomics for Rove is still a work in progress, we think it's important to share how we're thinking about doing it with the community.
 
 * While capital is important, we want to favor more active contributors and less towards those merely providing capital.
 * We want to put Rove tokens directly into the hands of those who are consistently creating meaningful value for the Rove system and the Rove community.&#x20;
@@ -28,6 +30,6 @@ While the tokenomics for Rove is still a work in progress, we think it's importa
 
 While everything is still up in the air, there is one sure thing: we will reward Rovers who actively participate in the Alpha and Beta releases.&#x20;
 
-During the Alpha and Beta releases, you will be given Rove testnet tokens.  You can use these testnet tokens to mint your own metaverse, spawn your own rocks, customize your environments, and trade cool objects - while having a great time hanging out with your friends in the immersive web.
+You will be given Rove testnet tokens during the Alpha and Beta releases.  You can use these testnet tokens to mint your own metaverse, spawn your own rocks, customize your environments, and trade cool objects - while having a great time hanging out with your friends in the immersive web.
 
 Great tokenization comes great responsibility :)&#x20;

@@ -1,10 +1,10 @@
 # The local economies
 
-Each metaverse is governed independently and operates its own local economy, with assets like  rocks, experiences, tickets, and objects.
+Each metaverse is governed independently and operates its own local economy, with assets like rocks, environments, experiences, objects, and tickets.
 
 **Assets**\
 \
-Assets in Rove are owned by Rovers, not the Rove system. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic **non-fungible tokens** (NFTs). Unstoppable **smart contracts** are used to program relationships between these assets.
+Assets in Rove are owned by Rovers, not the Rove system. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic non-fungible tokens (NFTs). Unstoppable smart contracts are used to program relationships between these assets.
 
 **Governance**
 
@@ -19,12 +19,10 @@ Metaverse DAOs can set their own policies. Here are some examples.
 
 **Expenditures**&#x20;
 
-* Reward Creators&#x20;
-* Reward Rovers who participate in experiences&#x20;
+* Reward Rovers who create meaningful value for the local metaverse&#x20;
 * Fund growth activities (i.e. airdrops, community building, partnerships, etc.)
 
 **Others**&#x20;
 
 * Set genesis rock prices&#x20;
 * Set local rock spawning fees&#x20;
-* Set local experience hosting fees

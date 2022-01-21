@@ -19,5 +19,4 @@ The Rove DAO works to maximize the growth of the Rove System. Here are the polic
 
 * Set metaverse minting prices
 * Set global rock spawning fees&#x20;
-* Set global rock spawning fees
-* Set global experience hosting fees
+
