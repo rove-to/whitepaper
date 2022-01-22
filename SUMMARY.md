@@ -6,9 +6,9 @@
 
 * [Metaverses](the-user-created-immersive-web/metaverses.md)
 * [Rocks](the-user-created-immersive-web/rocks/README.md)
-  * [Rock spawning](the-user-created-immersive-web/rocks/rock-spawning.md)
-  * [Rock evolution](the-user-created-immersive-web/rocks/rock-evolution.md)
   * [Rock families](the-user-created-immersive-web/rocks/rock-families.md)
+  * [Rock evolution](the-user-created-immersive-web/rocks/rock-evolution.md)
+  * [Rock spawning](the-user-created-immersive-web/rocks/rock-spawning.md)
   * [Rock ownership](the-user-created-immersive-web/rocks/rock-ownership.md)
 * [Environments](the-user-created-immersive-web/environments.md)
 * [Objects](the-user-created-immersive-web/objects.md)
