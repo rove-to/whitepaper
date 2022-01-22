@@ -1,6 +1,6 @@
 # Hang out with your team
 
-![Ain't no party like an office party.](<../.gitbook/assets/image (2).png>)
+![Ain't no party like an office party.](<../.gitbook/assets/image (2) (1).png>)
 
 ## Be in the same room as your distributed team.
 

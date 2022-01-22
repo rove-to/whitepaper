@@ -6,8 +6,8 @@ Hosting a party? Try out a villa environment and add your brand of cosy. Turn yo
 
 ![A home environment](<../.gitbook/assets/Home\_01 (1).png>)
 
-![An office environment](<../.gitbook/assets/image (3) (1).png>)
+![An office environment](<../.gitbook/assets/image (3) (1) (1).png>)
 
-![An adventure environment](<../.gitbook/assets/image (2) (1).png>)
+![An adventure environment](<../.gitbook/assets/image (2) (1) (1).png>)
 
 Environments are NFTs within Rove.

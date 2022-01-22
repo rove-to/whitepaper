@@ -6,24 +6,14 @@ This is where and how things happen in each [metaverse](../metaverses.md). Rocks
 
 Rocks have attributes common to their local metaverses – such as density, size, color, location, and gravity. These attributes shape how Rovers create and participate in experiences.
 
+## A bottom-up approach to NFT design
+
+Typically, products have a top-down approach. The product solves one specific problem and defines many specific in-product NFTs. For example, a game could define various specific in-game NFTs for its users.
+
+Rocks take a bottom-up approach. Rocks are general-purpose NFTs - the foundation for Rovers to build different experiences on top of.
+
+![A bottom-up approach to NFT design.](<../../.gitbook/assets/image (7).png>)
+
 Think of Rock attributes as basic primitives that can be used in infinite ways – like a deck of cards. Creators can interpret these attributes however they like to build unique and engaging experiences – like Blackjack or Poker.
 
-Rocks are NFTs within Rove.
-
-## How to get a rock
-
-Rovers acquire rocks in a few different ways:
-
-* Buy a rock from another Rover
-* [Spawn a new rock](rock-spawning.md) with blended attributes from 2 existing rocks.
-
-## Rock owners
-
-Rock owners are important players in each metaverse. They can:
-
-* Host experiences on the rock&#x20;
-* Rent the rock out other Rovers
-* Customize the rock
-* Sell the rock for a profit&#x20;
-* Spawn a new rock
-* Govern the metaverse the rock is located in
+![The community decides what to do with rocks.](<../../.gitbook/assets/image (14).png>)

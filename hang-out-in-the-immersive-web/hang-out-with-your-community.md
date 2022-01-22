@@ -1,6 +1,6 @@
 # Hang out with your community
 
-![Adventure with your community in any virtual world.](<../.gitbook/assets/image (7) (1).png>)
+![Adventure with your community in any virtual world.](<../.gitbook/assets/image (7) (1) (1).png>)
 
 ## Make a 3D home for your community.
 
