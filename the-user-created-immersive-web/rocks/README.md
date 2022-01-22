@@ -6,6 +6,8 @@ This is where and how things happen in each [metaverse](../metaverses.md). Rocks
 
 Rocks have attributes common to their local metaverses – such as density, size, color, location, and gravity. These attributes shape how Rovers create and participate in experiences.
 
+Rocks are NFTs within Rove.
+
 ## A bottom-up approach to NFT design
 
 Typically, products have a top-down approach. The product solves one specific problem and defines many specific in-product NFTs. For example, a game could define various specific in-game NFTs for its players.
