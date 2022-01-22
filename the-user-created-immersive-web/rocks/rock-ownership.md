@@ -11,7 +11,7 @@ Rock owners are important players in each metaverse. They can:
 * Spawn a new rock
 * Govern the metaverse the rock is located in
 
-And more as the Rove evolves.
+And more as Rove evolves.
 
 ## How to get a rock
 
