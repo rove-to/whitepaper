@@ -14,7 +14,7 @@ Typically, products have a top-down approach. The product solves one specific pr
 
 Rove takes a bottom-up approach. Rocks are general-purpose NFTs. They do not tie to a single experience, product, or game. They are the foundation for Rovers to build different experiences on top of.
 
-![A bottom-up approach to NFT design.](<../../.gitbook/assets/image (7).png>)
+![A bottom-up approach to NFT design.](<../../.gitbook/assets/image (11).png>)
 
 Think of Rock attributes as basic primitives that can be used in infinite ways – like a deck of cards. Creators can interpret these attributes however they like to build unique and engaging experiences – like Blackjack or Poker.
 

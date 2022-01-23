@@ -43,4 +43,4 @@ Rove challenges the prescribed future of a winner-takes-all metaverse, where rea
 
 Our goal is to open the internet so everyone can own a piece. You hold the keys to it, and everything in it.
 
-![An organic, infinitely expanding web3.](<.gitbook/assets/image (11).png>)
+![An organic, infinitely expanding web3.](<.gitbook/assets/image (11) (1).png>)
