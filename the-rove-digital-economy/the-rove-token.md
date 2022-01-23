@@ -2,9 +2,9 @@
 
 ## ROVE utilities
 
-Rove Token (ROVE) is the native cryptocurrency of the Rove System. It is a utility token used for all transactions across all metaverses within Rove.
+Rove Token (ROVE) is the native cryptocurrency of Rove. It is a utility token used for all transactions across all metaverses within Rove.
 
-Use Rove to:
+Use ROVE to:
 
 * Mint a metaverse
 * Buy a rock
