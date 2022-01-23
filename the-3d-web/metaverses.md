@@ -6,4 +6,4 @@ Rove is an open system of user-created metaverses. Anyone can create a metaverse
 \
 Metaverse economies are powered by [experiences](broken-reference). Assets that can be bought and sold include [rocks](rocks/) to host each experience, tickets to participate in them, and objects to enhance them.
 
-Each metaverse is [owned and operated by its inhabitants](../web3/user-owned-governance.md). They decide how their metaverse is run, and how their digital economy works. The Founder is the first governor of that metaverse and can release control to the community by distributing rocks. Rock owners co-own and co-operate.&#x20;
+Each metaverse is [owned and operated by its inhabitants](../user-owned/user-operated-governance.md). They decide how their metaverse is run, and how their digital economy works. The Founder is the first governor of that metaverse and can release control to the community by distributing rocks. Rock owners co-own and co-operate.&#x20;

@@ -20,10 +20,10 @@
 * [Hang out with your community](immersive-experiences/hang-out-with-your-community.md)
 * [Hang out with your team](immersive-experiences/hang-out-with-your-team.md)
 
-## Web3
+## USER-OWNED
 
-* [Trustless commerce](web3/trustless-commerce.md)
-* [User-owned governance](web3/user-owned-governance.md)
+* [Trustless P2P commerce](user-owned/trustless-p2p-commerce.md)
+* [User-operated governance](user-owned/user-operated-governance.md)
 
 ## The rove digital economy
 
