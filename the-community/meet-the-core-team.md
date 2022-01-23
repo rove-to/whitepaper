@@ -111,7 +111,7 @@ description: Get familiar with everyone on the core team.
 
 #### Kojiro
 
-🎨️ Visual Designer
+🎨️ Rock Designer
 
 🪨 Home: Genesis Metaverse, 112, 358&#x20;
 
