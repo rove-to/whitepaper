@@ -8,19 +8,19 @@ description: >-
 
 # What is Rove?
 
-![Hang out in the immersive web.](<.gitbook/assets/image (5).png>)
+![Rovers hanging out in Rove.](<.gitbook/assets/image (5).png>)
 
 **Rove** is your new corner of the web. It’s **3D**. It’s **immersive**. And **you own it**.
 
-## T**he 3D web**
+## Rove is 3D.
 
 Rove is an infinitely expanding network of **real-time 3D virtual worlds**. These 3D virtual worlds are immersive; they give you a sense of presence. Their states are also persistent and synchronized among all Rovers.
 
 The **basic building blocks** for creating 3D virtual worlds in Rove are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
 
-![An open network of user-created virtual worlds.](<.gitbook/assets/image (6).png>)
+![The 3D web.](<.gitbook/assets/image (6).png>)
 
-## Immersive experiences
+## Rove is immersive.
 
 Once Rove is fully developed, the community can build any immersive experience on Rove – social, gaming, commerce, work, learning, and more.
 
@@ -30,11 +30,11 @@ Within Rove, social experiences can be as big or small as you want them. A fancy
 
 ![A social experience in Rove.](<.gitbook/assets/image (8).png>)
 
-## User-created, user-operated and user-owned
-
-Everything in the Rove System is permissionless by design. Anyone can create their own space and operate it freely outside the jurisdiction of centralized institutions and corporations.
+## And you own Rove.
 
 Rove challenges the prescribed future of a winner-takes-all metaverse, where reality is dictated by monopolistic, centralized corporations. We don’t need to amplify web2 issues across additional dimensions.
+
+Everything in the Rove System is permissionless by design. Anyone can create their own space and operate it freely outside the jurisdiction of centralized institutions and corporations.
 
 Our goal is to open the internet so everyone can own a piece. You hold the keys to it, and everything in it.
 
