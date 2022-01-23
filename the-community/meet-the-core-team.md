@@ -91,7 +91,7 @@ description: Get familiar with everyone on the core team.
 
 #### 131Pow
 
-&#x20;🎨 Illusionist
+🎨 Illusionist
 
 🪨 Home: Genesis Metaverse, 100, 125&#x20;
 
@@ -101,7 +101,7 @@ description: Get familiar with everyone on the core team.
 
 #### Bob
 
-&#x20;📖 Scribbler
+📖 Scribbler
 
 🪨 Home: Genesis Metaverse, 100, 125&#x20;
 
@@ -119,6 +119,3 @@ description: Get familiar with everyone on the core team.
 
 ![](<../.gitbook/assets/image (1) (2).png>)
 
-####
-
-##
