@@ -10,4 +10,4 @@ Environments are NFTs within Rove.
 
 ![An office environment](<../.gitbook/assets/image (3) (1) (1).png>)
 
-![An adventure environment](<../.gitbook/assets/image (2) (1) (1).png>)
+![An adventure environment](<../.gitbook/assets/image (2) (1) (1) (1).png>)
