@@ -14,11 +14,11 @@ description: >-
 
 ## Rove is 3D.
 
-Rove is an infinitely expanding network of **real-time 3D virtual worlds**. These 3D virtual worlds are immersive; they give you a sense of presence. Their states are also persistent and synchronized among all Rovers.
+Rove is an infinitely expanding network of **real-time 3D virtual worlds**. These 3D virtual worlds are immersive; they give you a sense of presence. They are also persistent; their states are synched among all Rovers in real-time.
 
-Rove is accessible for everyone. Rovers can create and experience these user-created 3D virtual worlds via multiple platforms: **desktop**, **mobile**, and **VR headsets**.
+Rove is accessible via multiple interfaces. Rovers can create and experience 3D virtual worlds on a web browser on both **desktop** and **mobile**. And for the best experiences, Rovers can experience Rove with **VR headsets**.
 
-The **basic building blocks** for Rovers to create their own 3D virtual worlds are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
+3D virtual worlds in Rove are **user-created**. The **basic building blocks** for Rovers to create 3D virtual worlds are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
 
 ![Rove is the user-created 3D web.](<.gitbook/assets/image (6).png>)
 
