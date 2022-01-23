@@ -10,10 +10,10 @@ Buying and selling assets are done via trustless **smart contracts**.
 
 Within Rove, every piece of user-created content is an NFT asset. Assets that can be bought and sold on the Rove Marketplace include:
 
-* [Metaverses](../the-user-created-immersive-web/metaverses.md)
-* [Rocks](../the-user-created-immersive-web/rocks/)
-* [Environments](../the-user-created-immersive-web/environments.md)&#x20;
-* [Objects](../the-user-created-immersive-web/objects.md)
-* [Experiences](../hang-out-in-the-immersive-web/social-experiences.md)
+* [Metaverses](../the-3d-web/metaverses.md)
+* [Rocks](../the-3d-web/rocks/)
+* [Environments](../the-3d-web/environments.md)&#x20;
+* [Objects](../the-3d-web/objects.md)
+* [Experiences](../immersive-experiences/social-experiences.md)
 
 And more as Rove evolves.

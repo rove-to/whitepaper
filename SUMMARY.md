@@ -2,23 +2,23 @@
 
 * [What is Rove?](README.md)
 
-## THE USER-CREATED IMMERSIVE WEB
+## THE 3D WEB
 
-* [Metaverses](the-user-created-immersive-web/metaverses.md)
-* [Rocks](the-user-created-immersive-web/rocks/README.md)
-  * [Rock families](the-user-created-immersive-web/rocks/rock-families.md)
-  * [Rock evolution](the-user-created-immersive-web/rocks/rock-evolution.md)
-  * [Rock spawning](the-user-created-immersive-web/rocks/rock-spawning.md)
-  * [Rock ownership](the-user-created-immersive-web/rocks/rock-ownership.md)
-* [Environments](the-user-created-immersive-web/environments.md)
-* [Objects](the-user-created-immersive-web/objects.md)
+* [Metaverses](the-3d-web/metaverses.md)
+* [Rocks](the-3d-web/rocks/README.md)
+  * [Rock families](the-3d-web/rocks/rock-families.md)
+  * [Rock evolution](the-3d-web/rocks/rock-evolution.md)
+  * [Rock spawning](the-3d-web/rocks/rock-spawning.md)
+  * [Rock ownership](the-3d-web/rocks/rock-ownership.md)
+* [Environments](the-3d-web/environments.md)
+* [Objects](the-3d-web/objects.md)
 
-## Hang out in the immersive web
+## Immersive Experiences
 
-* [Social experiences](hang-out-in-the-immersive-web/social-experiences.md)
-* [Hang out with your friends](hang-out-in-the-immersive-web/hang-out-with-your-friends.md)
-* [Hang out with your community](hang-out-in-the-immersive-web/hang-out-with-your-community.md)
-* [Hang out with your team](hang-out-in-the-immersive-web/hang-out-with-your-team.md)
+* [Social experiences](immersive-experiences/social-experiences.md)
+* [Hang out with your friends](immersive-experiences/hang-out-with-your-friends.md)
+* [Hang out with your community](immersive-experiences/hang-out-with-your-community.md)
+* [Hang out with your team](immersive-experiences/hang-out-with-your-team.md)
 
 ## Web3
 

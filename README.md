@@ -16,12 +16,12 @@ description: >-
 
 Rove is an infinitely expanding network of **real-time 3D virtual worlds**. These 3D virtual worlds are immersive; they give you a sense of presence. Their states are also persistent and synchronized among all Rovers.
 
-The basic building blocks for creating 3D virtual worlds within Rove are:&#x20;
+The basic building blocks for creating 3D virtual worlds in Rove are:&#x20;
 
-* [Metaverses](the-user-created-immersive-web/metaverses.md)
-* [Rocks](the-user-created-immersive-web/rocks/)
-* [Environments](the-user-created-immersive-web/environments.md)
-* [Objects](the-user-created-immersive-web/objects.md)
+* [Metaverses](the-3d-web/metaverses.md)
+* [Rocks](the-3d-web/rocks/)
+* [Environments](the-3d-web/environments.md)
+* [Objects](the-3d-web/objects.md)
 
 ![An open network of user-created virtual worlds.](<.gitbook/assets/image (6).png>)
 
@@ -29,7 +29,7 @@ The basic building blocks for creating 3D virtual worlds within Rove are:&#x20;
 
 Once Rove is fully developed, the community can build any immersive experience on Rove – social, gaming, commerce, work, learning, and more.
 
-At launch, we will focus on **social experiences** first. We think social is a good starting point from which to grow Rove. Fundamentally, virtual worlds are about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
+At launch, we will focus on [social experiences](immersive-experiences/social-experiences.md) first. We think social is a good starting point from which to grow Rove. Fundamentally, virtual worlds are about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
 
 Within Rove, social experiences can be as big or small as you want them. A fancy apartment or a leaky tent. Sit next to your best friend and chat through a movie. Host your next community AMA around a campfire. Throw a house party in VR.
 
