@@ -10,25 +10,27 @@ description: >-
 
 ![Rovers hanging out in Rove.](<.gitbook/assets/image (5).png>)
 
-**Rove** is your new corner of the web. It’s **3D**. It’s **immersive**. And **you own it**.
+**Rove** is your new corner of the web. It’s **3D**. It’s **immersive**. And **you own Rove**.
 
 ## Rove is 3D.
 
 Rove is an infinitely expanding network of **real-time 3D virtual worlds**. These 3D virtual worlds are immersive; they give you a sense of presence. Their states are also persistent and synchronized among all Rovers.
 
-The **basic building blocks** for creating 3D virtual worlds in Rove are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
+Rove is accessible for everyone. Rovers can create and experience these user-created 3D virtual worlds via multiple platforms: **desktop**, **mobile**, and **VR headsets**.
 
-![The 3D web.](<.gitbook/assets/image (6).png>)
+The **basic building blocks** for Rovers to create their own 3D virtual worlds are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
+
+![Rove is the user-created 3D web.](<.gitbook/assets/image (6).png>)
 
 ## Rove is immersive.
 
-Once Rove is fully developed, the community can build any immersive experience on Rove – social, gaming, commerce, work, learning, and more.
+Rove takes a [bottom-up design approach](https://whitepaper.rove.to/rove/the-3d-web/rocks#a-bottom-up-approach-to-nft-design) so that the community can create any **immersive experience** they can imagine – social, gaming, commerce, work, learning, and more. Experiences on Rove are live, immersive, and persistent.
 
 At launch, we will focus on [social experiences](immersive-experiences/social-experiences.md) first. We think social is a good starting point from which to grow Rove. Fundamentally, virtual worlds are about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
 
 Within Rove, social experiences can be as big or small as you want them. A fancy apartment or a leaky tent. Sit next to your best friend and chat through a movie. Host your next community AMA around a campfire. Throw a house party in VR.
 
-![A social experience in Rove.](<.gitbook/assets/image (8).png>)
+![An immersive experience on Rove.](<.gitbook/assets/image (8).png>)
 
 ## And you own Rove.
 
