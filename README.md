@@ -10,13 +10,13 @@ description: >-
 
 ![Rovers hanging out in Rove.](<.gitbook/assets/image (5).png>)
 
-**Rove** is your new corner of the web. It’s **3D**. It’s **immersive**. And **you own Rove**.
+**Rove** is your new corner of the web. It’s **3D**. It’s **immersive**. And **it's yours.**
 
 ## Rove is 3D.
 
-**Rove is a user-created 3D web** with an infinitely expanding number of **3D virtual worlds**. These 3D virtual worlds are **immersive**; they give you a sense of presence. They are **persistent**; their states are saved and synched among all Rovers. They are **real-time**; they are being rendered constantly to all devices accessing them.
+Rove **** is made of an infinitely expanding number of **user-created** **3D virtual worlds**. These 3D virtual worlds are **immersive**; they give you a sense of presence. They are **persistent**; their states are saved and synced among all Rovers. They are **real-time**; they are being rendered constantly to all devices accessing them.
 
-Rove is accessible via multiple devices. Rovers can create and explore 3D virtual worlds via a web browser, on both **desktop** and **mobile**. And for the most immersive experience, use **VR headsets**.
+Rove is accessible via multiple devices. Rovers can create and explore 3D virtual worlds via a web browser, on both **desktop** and **mobile**. And for the most immersive experience, **VR headsets**.
 
 3D virtual worlds in Rove are **user-created**. The **basic building blocks** for Rovers to create 3D virtual worlds are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
 
@@ -24,7 +24,7 @@ Rove is accessible via multiple devices. Rovers can create and explore 3D virtua
 
 ## Rove is immersive.
 
-Experiences in Rove are different. You are not just watching them. There is so much more. You're participating in them, and you're part of them. They are **immersive experiences**.
+Digital experiences in Rove are **immersive**. You're not just watching them; you're in them. They are experiences you can participate in, and be part of.&#x20;
 
 Rove takes a [bottom-up design approach](https://whitepaper.rove.to/rove/the-3d-web/rocks#a-bottom-up-approach-to-nft-design) so that the community can create any experience they can imagine – social, gaming, commerce, work, learning, and more.&#x20;
 
@@ -34,7 +34,7 @@ Within Rove, social experiences can be as big or small as you want them. A fancy
 
 ![Experiences on Rove are live, immersive, and persistent.](<.gitbook/assets/image (8).png>)
 
-## And you own Rove.
+## You own Rove.
 
 **Assets in Rove are owned by Rovers**, not Rove. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic non-fungible tokens (NFTs). Unstoppable smart contracts are used to program relationships between these assets.
 
