@@ -1,3 +1,10 @@
+---
+description: >-
+  Rock owners have sole custody and control over their assets (Rock NFTs). Rocks
+  can be purchased, sold, spawned, customized, and used to govern its local
+  metaverse.
+---
+
 # Rock ownership
 
 ## Rock owners
