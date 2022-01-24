@@ -18,16 +18,12 @@ And more as the Rove economy grows.
 
 ## ROVE tokenomics
 
-We want the best tokenomics for Rove and Rovers. At the same time, we understand that it is complicated to get tokenomics right. Unlike a regular product feature that can be shipped and re-shipped, we can only ship tokenomics once. So, we will take our time.
+Rove tokenomics will be community-driven, and designed to reward active contribution over passive capital investment. The goal is to put Rove tokens directly into the hands of those who are consistently creating meaningful value for the Rove system and the Rove community.&#x20;
 
-The tokenomics for Rove will only be finalized and released at the Public launch. The Alpha and Beta releases allow us to study and fine-tune the Rove economy.
+To this end, tokenomics will be finalized and released at the Public launch, based on feedback from the Alpha and Beta releases.&#x20;
 
-While the tokenomics for Rove is still a work in progress, we think it's important to share how we're thinking about doing it with the community.
+**Alpha and Beta releases**\
+\
+These early releases will allow us to study and fine-tune the Rove economy, as well as receive input from a growing community. Hang out with your friends in the immersive web and help improve Rove before the Public launch!
 
-* We want to favor more active contributors and less towards those merely providing capital.
-* We want to put Rove tokens directly into the hands of those who are consistently creating meaningful value for the Rove system and the Rove community.&#x20;
-* We want to put the majority of the token distribution towards the community.
-
-While everything is still up in the air, there is one sure thing: we will reward Rovers who actively participate in the Alpha and Beta releases.&#x20;
-
-You will be given Rove testnet tokens during the Alpha and Beta releases. You can use these testnet tokens to mint your own metaverse, spawn your own rocks, customize your environments, and trade cool objects. Not only you'll have a great time hanging out with your friends in the immersive web, but you'll also help improve Rove before the Public launch.
+Testnet ROVE will be given to users who want to mint their own metaverses, spawn their own rocks, customize their own environments, and trade cool objects.&#x20;
