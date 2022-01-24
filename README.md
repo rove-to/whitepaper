@@ -36,11 +36,11 @@ Within Rove, social experiences can be as big or small as you want them. A fancy
 
 ## And you own Rove.
 
-Rove challenges the prescribed future of a winner-takes-all metaverse, where reality is dictated by monopolistic, centralized corporations. We don’t need to amplify web2 issues across additional dimensions.
+**Assets in Rove are owned by Rovers**, not Rove. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic non-fungible tokens (NFTs). Unstoppable smart contracts are used to program relationships between these assets.
 
 Everything in the Rove System is **permissionless by design**. Anyone can create their own space and operate it freely outside the jurisdiction of centralized institutions and corporations.
 
-**Assets in Rove are owned by Rovers**, not Rove. Rovers hold their own private keys and have sole control over their assets, represented by cryptographic non-fungible tokens (NFTs). Unstoppable smart contracts are used to program relationships between these assets.
+Rove challenges the prescribed future of a winner-takes-all metaverse, where reality is dictated by monopolistic, centralized corporations. We don’t need to amplify web2 issues across additional dimensions.&#x20;
 
 Our goal is to open the internet so everyone can own a piece. **You hold the keys to it, and everything in it**.
 
