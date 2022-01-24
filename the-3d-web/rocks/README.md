@@ -1,8 +1,10 @@
 # Rocks
 
+
+
 ![A metaverse, composed of rocks with different attributes.](../../.gitbook/assets/Rove.039.jpeg)
 
-This is where and how things happen in each [metaverse](../metaverses.md). Rocks are foundations for Rovers to build, host, and participate in [social](../../immersive-experiences/social-experiences.md), gaming, commerce, work, and learning experiences.
+Rocks are where and how things happen in each [metaverse](../metaverses.md). Rocks are foundations for Rovers to build, host, and participate in [social](../../immersive-experiences/social-experiences.md), gaming, commerce, work, and learning experiences.
 
 Rocks have attributes common to their local metaverses – such as density, size, color, location, and gravity. These attributes shape how Rovers create and participate in experiences.
 
@@ -10,7 +12,7 @@ Rocks are NFTs within Rove.
 
 ## A bottom-up approach to NFT design
 
-Typically, products have a top-down approach. The product solves one specific problem and defines many specific in-product NFTs. For example, a game could define various specific in-game NFTs for its players.
+Typically, products employ a top-down approach. These products are designed to solve specific problems, or for specific purposes. We see this in many in-product NFTs. For example, a game could define various specific in-game NFTs for its players.
 
 Rove takes a bottom-up approach. Rocks are general-purpose NFTs. They do not tie to a single experience, product, or game. They are the foundation for Rovers to build different experiences on top of.
 
