@@ -15,7 +15,7 @@
 
 ## Immersive Experiences
 
-* [Social experiences](immersive-experiences/social-experiences.md)
+* [Experiences](immersive-experiences/experiences.md)
 * [Hang out with your friends](immersive-experiences/hang-out-with-your-friends.md)
 * [Hang out with your community](immersive-experiences/hang-out-with-your-community.md)
 * [Hang out with your team](immersive-experiences/hang-out-with-your-team.md)

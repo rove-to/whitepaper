@@ -1,10 +1,14 @@
-# Social experiences
+---
+description: Rove is a place to create and discover immersive experiences in 3D/VR.
+---
+
+# Experiences
 
 
 
 ![Potential experiences on Rove.](https://lh5.googleusercontent.com/rHPYUVnnLEB4o6t2IzGs-VOqoPb2m5Qyob7BbvE8rHOrrIXbBxnJcpfc4JmQHFJttgXis0Dfe77xxRVxWZXyvBr\_bt\_P9C\_7OV4NvXtabUCbWR3CnZOvDeXOt3qGZgDFTgmzhJTo)
 
-You can build any immersive experience on Rove – [social](social-experiences.md), gaming, commerce, work, learning, and more.
+You can build any immersive experience on Rove – social, gaming, commerce, work, learning, and more.&#x20;
 
 At launch, the first metaverse and rocks are geared towards social experiences, built by [the core team](../the-community/meet-the-core-team.md) to demonstrate possibilities using rock attributes as basic primitives.
 

@@ -1,4 +1,4 @@
-# Trustless commerce
+# Trustless P2P commerce
 
 Everything in the Rove System is permissionless by design. Assets in Rove are owned by Rovers, not the Rove system.&#x20;
 
@@ -14,6 +14,6 @@ Within Rove, every piece of user-created content is an NFT asset. Assets that ca
 * [Rocks](../the-3d-web/rocks/)
 * [Environments](../the-3d-web/environments.md)&#x20;
 * [Objects](../the-3d-web/objects.md)
-* [Experiences](../immersive-experiences/social-experiences.md)
+* [Experiences](../immersive-experiences/experiences.md)
 
 And more as Rove evolves.
