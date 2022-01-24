@@ -1,14 +1,14 @@
 ---
 coverY: 0
 description: >-
-  Rove is is an infinitely expanding space, dotted with little pockets of people
-  just hanging out. Be with your favorite people in your very own corner of the
+  Rove is where you can create a social space in 3D/VR to hang out with your
+  friends. Be with your favorite people in your very own corner of the
   metaverse.
 ---
 
 # What is Rove?
 
-![Rovers hanging out in Rove.](<.gitbook/assets/image (5).png>)
+![Rove is dotted with little pockets of people just hanging out.](<.gitbook/assets/image (5).png>)
 
 **Rove** is your new corner of the web. It’s **3D**. It’s **immersive**. And **it's yours.**
 
@@ -20,7 +20,7 @@ Rove is accessible via multiple devices. Rovers can create and explore 3D virtua
 
 3D virtual worlds in Rove are **user-created**. The **basic building blocks** for Rovers to create 3D virtual worlds are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
 
-![Rove is a user-created 3D web.](<.gitbook/assets/image (6).png>)
+![An open system of user-created 3D worlds.](<.gitbook/assets/image (6).png>)
 
 ## Rove is immersive.
 
