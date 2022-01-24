@@ -20,7 +20,7 @@ Rove is accessible via multiple devices. Rovers can create and explore 3D virtua
 
 3D virtual worlds in Rove are **user-created**. The **basic building blocks** for Rovers to create 3D virtual worlds are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
 
-![An open system of user-created 3D worlds.](<.gitbook/assets/image (6).png>)
+![An open system of user-created 3D social spaces.](<.gitbook/assets/image (6).png>)
 
 ## Rove is immersive.
 
