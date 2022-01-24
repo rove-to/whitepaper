@@ -1,3 +1,7 @@
+---
+description: Rove equips anyone with tools to create their own metaverse.
+---
+
 # Metaverses
 
 ![Rove is composed of user-created, organic, ever-evolving metaverses.](<../.gitbook/assets/Screen Shot 2022-01-14 at 2.29.31 PM.png>)
