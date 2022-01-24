@@ -1,6 +1,6 @@
 # Public
 
-Public launch! The priority is to fix bugs and fine-tune critical features based on the community feedback on the Beta version. &#x20;
+Public launch! The priority is to fix bugs and fine-tune critical features based on community feedback from the Beta version. &#x20;
 
 This release will see a fully functioning Rove system.&#x20;
 
@@ -9,7 +9,7 @@ This release will see a fully functioning Rove system.&#x20;
 * Metaverses: 10 metaverses
 * Rocks: Add 2 new rock families (Lava and Sphero)
 * Environments: 50 environments across public spaces, residential spaces, and exciting places
-* Objects: Rovers will be able to do some customization on their objects
+* Objects: Some object customization
 
 **Hang out in the immersive web**
 

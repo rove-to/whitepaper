@@ -1,6 +1,6 @@
 # Future work
 
-The future is exciting. We look forward to working on these problems.
+We look forward to working on these problems.
 
 **The user-created immersive web**
 
