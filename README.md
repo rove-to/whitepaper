@@ -14,7 +14,7 @@ description: >-
 
 ## Rove is 3D.
 
-Rove **** is made of an infinitely expanding number of **user-created** **3D virtual worlds**. These 3D virtual worlds are **immersive**; they give you a sense of presence. They are **persistent**; their states are saved and synced among all Rovers. They are **real-time**; they are being rendered constantly to all devices accessing them.
+Rove **** is an infinitely expanding web of **user-created** **3D virtual worlds**. These 3D virtual worlds are **immersive**; they give you a sense of presence. They are **persistent**; their states are saved and synced among all Rovers. They are **real-time**; they are being rendered constantly to all devices accessing them.
 
 Rove is accessible via multiple devices. Rovers can create and explore 3D virtual worlds via a web browser, on both **desktop** and **mobile**. And for the most immersive experience, **VR headsets**.
 
