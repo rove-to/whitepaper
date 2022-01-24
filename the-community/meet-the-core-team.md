@@ -9,9 +9,11 @@ description: Get familiar with everyone on the core team.
 
 ## Partnerships
 
-#### Billy
+#### Billy&#x20;
 
 👋 People Person
+
+![](<../.gitbook/assets/image (9).png>)[ billy1403](https://t.me/billy140)
 
 🪨 Home: Genesis Metaverse, 259, 800
 
@@ -22,6 +24,8 @@ description: Get familiar with everyone on the core team.
 #### Domin
 
 👋 Matchmaker
+
+![](<../.gitbook/assets/image (9).png>) [dominvo](https://t.me/dominvo)
 
 🪨 Home: Genesis Metaverse, 259, 800
 
