@@ -1,3 +1,10 @@
+---
+description: >-
+  Rocks are your address in the metaverse, foundations to build social spaces
+  and host experiences. They are general purpose assets that can be used in any
+  way, to create any sort of experience.
+---
+
 # Rocks
 
 
@@ -12,9 +19,9 @@ Rocks are NFTs within Rove.
 
 ## A bottom-up approach to NFT design
 
-Typically, products employ a top-down approach. These products are designed to solve specific problems, or for specific purposes. We see this in many in-product NFTs. For example, a game could define various specific in-game NFTs for its players.
+Typically, products employ a top-down approach. These products are designed for specific problems or purposes. We see this in many in-product NFTs. For example, a game could define various specific in-game NFTs for its players.
 
-Rove takes a bottom-up approach. Rocks are general-purpose NFTs. They do not tie to a single experience, product, or game. They are the foundation for Rovers to build different experiences on top of.
+Rove takes a bottom-up approach. Rocks are general-purpose NFTs. They are not tied to a single experience, product, or game. They are foundations for Rovers to build different experiences on top of.
 
 ![A bottom-up approach to NFT design.](<../../.gitbook/assets/image (11).png>)
 
