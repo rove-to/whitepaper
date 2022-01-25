@@ -2,7 +2,7 @@
 coverY: 0
 description: >-
   Rove is your address in the metaverse. Create your own social space in 3D/VR
-  and hang out with your friends. Create your very own corner of the new 3D web.
+  and hang out with your friends – in your very own corner of the new 3D web.
 ---
 
 # What is Rove?
