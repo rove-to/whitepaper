@@ -11,7 +11,7 @@ description: >-
 
 ![A metaverse, composed of rocks with different attributes.](../../.gitbook/assets/Rove.039.jpeg)
 
-Rocks are where and how things happen in each [metaverse](../metaverses.md). Rocks are foundations for Rovers to build, host, and participate in [social](../../immersive-experiences/experiences.md), gaming, commerce, work, and learning experiences.
+Rocks are where and how things happen in each [metaverse](../metaverses.md). Rocks are foundations for Rovers to build, host, and participate in [social](../../3d-experiences/experiences.md), gaming, commerce, work, and learning experiences.
 
 Rocks have attributes common to their local metaverses – such as density, size, color, location, and gravity. These attributes shape how Rovers create and participate in experiences.
 

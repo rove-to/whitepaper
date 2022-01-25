@@ -29,7 +29,7 @@ Digital experiences in Rove are **immersive**. You're not just watching them; yo
 
 Rove takes a [bottom-up design approach](https://whitepaper.rove.to/rove/the-3d-web/rocks#a-bottom-up-approach-to-nft-design) so that the community can create any experience they can imagine – social, gaming, commerce, work, learning, and more.&#x20;
 
-At launch, we will focus on [social experiences](immersive-experiences/experiences.md). We think social is a good starting point from which to grow Rove. Fundamentally, virtual worlds are about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
+At launch, we will focus on [social experiences](3d-experiences/experiences.md). We think social is a good starting point from which to grow Rove. Fundamentally, virtual worlds are about people. How they come together, and how they interact in these new worlds. How they self-organize and create. These interactions determine the richness of any given reality – whether physical or digital.
 
 Within Rove, social experiences can be as big or small as you want them. A fancy apartment or a leaky tent. Sit next to your best friend and chat through a movie. Host your next community AMA around a campfire. Throw a house party in VR.
 

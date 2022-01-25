@@ -13,12 +13,12 @@
 * [Environments](the-3d-web/environments.md)
 * [Objects](the-3d-web/objects.md)
 
-## Immersive Experiences
+## 3D Experiences
 
-* [Experiences](immersive-experiences/experiences.md)
-* [Hang out with your friends](immersive-experiences/hang-out-with-your-friends.md)
-* [Hang out with your community](immersive-experiences/hang-out-with-your-community.md)
-* [Hang out with your team](immersive-experiences/hang-out-with-your-team.md)
+* [Experiences](3d-experiences/experiences.md)
+* [Hang out with your friends](3d-experiences/hang-out-with-your-friends.md)
+* [Hang out with your community](3d-experiences/hang-out-with-your-community.md)
+* [Hang out with your team](3d-experiences/hang-out-with-your-team.md)
 
 ## USER-OWNED
 
