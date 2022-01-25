@@ -51,6 +51,8 @@ description: Get to know the first Rovers.
 
 👋 Peacemaker
 
+![](<../.gitbook/assets/image (9).png>)[hieu](https://t.me/dominvo)
+
 🪨 Home: Genesis Metaverse, 259, 800
 
 <mark style="color:red;">❤</mark>️ Favorite rock family: Voronoi
