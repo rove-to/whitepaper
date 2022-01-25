@@ -1,8 +1,8 @@
 ---
 description: >-
-  Rove is a place to create and discover immersive experiences in 3D/VR. Host
-  and participate in any kind of experience you want – social, commerce, games,
-  education, and learning.
+  Rove is a place to create and discover immersive experiences in 3D/VR. Have
+  any kind of experience you want – be it social, commerce, games, education, or
+  learning.
 ---
 
 # The first experiences
