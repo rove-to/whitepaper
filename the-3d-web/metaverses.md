@@ -11,7 +11,7 @@ Rove is an open system of user-created metaverses, each with their own network o
 Metaverse economies are powered by cryptoassets and experiences.&#x20;
 
 * **Cryptoassets** that can be bought and sold include [rocks](rocks/) to host each experience, [environments](environments.md) to bring rocks to life, and [objects](objects.md) to enhance them.&#x20;
-* **Experiences** are created by Rovers across [social](../3d-experiences/experiences.md), gaming, commerce, work, learning, and more.
+* **Experiences** are created by Rovers across [social](../3d-experiences/the-first-experiences.md), gaming, commerce, work, learning, and more.
 
 Each metaverse is collectively [governed by its inhabitants](../user-owned/user-operated-governance.md). They decide how their metaverse is run, and how their digital economy works. The Founder is the first governor of that metaverse and can release control to the community by distributing rocks. \
 \

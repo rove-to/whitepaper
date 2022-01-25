@@ -15,7 +15,7 @@
 
 ## 3D Experiences
 
-* [Experiences](3d-experiences/experiences.md)
+* [The first experiences](3d-experiences/the-first-experiences.md)
 * [Hang out with your friends](3d-experiences/hang-out-with-your-friends.md)
 * [Hang out with your community](3d-experiences/hang-out-with-your-community.md)
 * [Hang out with your team](3d-experiences/hang-out-with-your-team.md)
