@@ -20,6 +20,7 @@
 * [Slack → 3D Office](3d-experiences/hang-out-with-your-team.md)
 * [Reddit → 3D Cafe](3d-websites/reddit-3d-cafe.md)
 * [Behance → 3D Gallery](3d-websites/behance-3d-gallery.md)
+* [Shopify → 3D Store](3d-websites/shopify-3d-store.md)
 
 ## USER-OWNED
 
