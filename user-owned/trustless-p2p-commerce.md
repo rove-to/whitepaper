@@ -14,6 +14,6 @@ Within Rove, every piece of user-created content is an NFT asset. Assets that ca
 * [Rocks](../the-3d-web/rocks/)
 * [Environments](../the-3d-web/environments.md)&#x20;
 * [Objects](../the-3d-web/objects.md)
-* [Experiences](../3d-websites/3d-templates.md)
+* [Experiences](../3d-experiences/experiences.md)
 
 And more as Rove evolves.
