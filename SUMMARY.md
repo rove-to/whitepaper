@@ -13,12 +13,12 @@
 * [Environments](the-3d-web/environments.md)
 * [Objects](the-3d-web/objects.md)
 
-## 3D Experiences
+## 3D WEBSITES
 
-* [The first experiences](3d-experiences/experiences.md)
-* [Hang out with your friends](3d-experiences/hang-out-with-your-friends.md)
-* [Hang out with your community](3d-experiences/hang-out-with-your-community.md)
-* [Hang out with your team](3d-experiences/hang-out-with-your-team.md)
+* [3D Templates](3d-websites/3d-templates.md)
+* [Hang out with your friends](3d-websites/hang-out-with-your-friends.md)
+* [Hang out with your community](3d-websites/hang-out-with-your-community.md)
+* [Hang out with your team](3d-websites/hang-out-with-your-team.md)
 
 ## USER-OWNED
 

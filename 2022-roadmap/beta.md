@@ -1,6 +1,6 @@
 # Beta
 
-This release will see crypto elements incorporated into Rove, including the [Rove token](../the-rove-digital-economy/the-rove-token.md) and the NFT [smart contracts](https://github.com/rove-to/evm-smart-contracts/tree/main/contracts) of [metaverses](../the-3d-web/metaverses.md), [rocks](../the-3d-web/rocks/), and [social experiences](../3d-experiences/experiences.md). \
+This release will see crypto elements incorporated into Rove, including the [Rove token](../the-rove-digital-economy/the-rove-token.md) and the NFT [smart contracts](https://github.com/rove-to/evm-smart-contracts/tree/main/contracts) of [metaverses](../the-3d-web/metaverses.md), [rocks](../the-3d-web/rocks/), and [social experiences](../3d-websites/3d-templates.md). \
 \
 A key priority is fine-tuning critical features based on community feedback from the Alpha version. &#x20;
 
