@@ -1,11 +1,11 @@
 ---
 description: >-
   Your personal website on the 3D web is where people can find you, in person.
-  Maybe in your fancy apartment, all jazzed up with NFT swag. Maybe on the
-  beach, maybe in your treehouse
+  Maybe in your fancy apartment, all jazzed up with NFT swag. Maybe hanging out
+  in your beach hut with your favorite people.
 ---
 
-# Wordpress → 3D Home
+# WordPress → 3D Home
 
 ![Hang out with your friends at your 3D home.](<../.gitbook/assets/Home\_01 (1) (1).png>)
 
