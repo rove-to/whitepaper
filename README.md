@@ -20,11 +20,11 @@ In the 3D web, visitors become inhabitants. They participate rather than passive
 
 ![Web experiences on Rove are live, immersive, and persistent.](<.gitbook/assets/image (8).png>)
 
-Every website on Rove is user-created. The basic building blocks for Rovers to create 3D web presences  are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
+Every website on Rove is user-created. The basic building blocks for Rovers to create 3D web presences are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
 
 ## You own the 3D web.
 
-We don’t need to amplify web2 issues across additional dimensions. We need to open the internet so everyone can own a piece of the new web we’re building.
+We don’t need to amplify web2 issues across additional dimensions. We need to open the internet so everyone can own a piece.
 
 **Rove gives creator abilities to anyone with a vision.** Through a [bottom-up design approach](https://whitepaper.rove.to/rove/the-3d-web/rocks#a-bottom-up-approach-to-nft-design), the community can create any web presence they can imagine – a personal website, a community forum, an online store, a client portfolio, etc.
 
