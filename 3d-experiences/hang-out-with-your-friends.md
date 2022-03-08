@@ -11,8 +11,9 @@ description: >-
 
 ## Rove is a more human way to live online.
 
-**Escape the Zoom-bie apocalypse.** Sometimes it’s just better to meet in person. Remember what it’s like to talk together, instead of at each other?\
-\
+**Escape the Zoom-bie apocalypse.** Sometimes it’s just better to meet in person. Remember what it’s like to talk together, instead of at each other?
+
 **Create a cooler space to Hangout**. Invite friends to visit your penthouse in the metaverse instead of a screen in your garage. Deck the walls with your favorite NFTs.
 
 **Meet in your metaverse, not Meta’s.** Host anyone, do anything – your house, your rules. Connect in your very own corner of the the 3D web and experience a freer way to meet online.
+
