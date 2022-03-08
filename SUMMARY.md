@@ -15,7 +15,7 @@
 
 ## 3D WEBSITES
 
-* [3D Templates](3d-experiences/experiences.md)
+* [3D website templates](3d-experiences/experiences.md)
 * [WordPress → 3D Home](3d-experiences/hang-out-with-your-friends.md)
 * [Shopify → 3D Store](3d-websites/shopify-3d-store.md)
 * [Behance → 3D Gallery](3d-websites/behance-3d-gallery.md)
