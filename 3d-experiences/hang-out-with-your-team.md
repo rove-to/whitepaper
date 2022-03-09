@@ -7,7 +7,7 @@ description: >-
 
 # Slack → 3D Office
 
-![Is it someone's birthday again?](<../.gitbook/assets/image (2) (1) (1).png>)
+![Friday afternoon in the office.](<../.gitbook/assets/Screen Shot 2022-03-09 at 5.15.45 PM.png>)
 
 ## Be in the same room as your distributed team.
 
