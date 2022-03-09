@@ -7,6 +7,8 @@ description: >-
 
 # Shopify → 3D Store
 
+![Expand your retail footprint to the metaverse.](<../.gitbook/assets/Screen Shot 2022-03-09 at 5.10.44 PM.png>)
+
 ## Engage with your customers on a new level.
 
 **Enter the future of commerce with a couple of clicks.** It takes just a few moments to set up your virtual store in the metaverse, complete with your own branding.&#x20;
