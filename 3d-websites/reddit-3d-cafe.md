@@ -7,7 +7,7 @@ description: >-
 
 # Reddit → 3D Cafe
 
-![Adventure with your community in a 3D space of your own design.](<../.gitbook/assets/image (7) (1) (1).png>)
+![Hey squirrelgirl92, I keep bumping into you.](<../.gitbook/assets/Screen Shot 2022-03-09 at 5.17.26 PM.png>)
 
 ## Make a 3D home for your community.
 
