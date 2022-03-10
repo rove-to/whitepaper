@@ -2,14 +2,14 @@
 
 * [What is Rove?](README.md)
 
-## 3D WEBSITES
+## THE 3D WEB
 
-* [3D website templates](3d-experiences/experiences.md)
-* [WordPress → 3D Home](3d-experiences/hang-out-with-your-friends.md)
-* [Shopify → 3D Store](3d-websites/shopify-3d-store.md)
-* [Behance → 3D Gallery](3d-websites/behance-3d-gallery.md)
-* [Slack → 3D Office](3d-experiences/hang-out-with-your-team.md)
-* [Reddit → 3D Cafe](3d-websites/reddit-3d-cafe.md)
+* [3D website templates](the-3d-web/3d-templates.md)
+* [WordPress → 3D Home](the-3d-web/wordpress-3d-home.md)
+* [Shopify → 3D Store](the-3d-web/shopify-3d-store.md)
+* [Behance → 3D Gallery](the-3d-web/behance-3d-gallery.md)
+* [Slack → 3D Office](the-3d-web/slack-3d-office.md)
+* [Reddit → 3D Cafe](the-3d-web/reddit-3d-cafe.md)
 
 ## The Community
 

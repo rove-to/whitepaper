@@ -5,7 +5,7 @@ coverY: 0
 description: Get to know the first Rovers.
 ---
 
-# 🥳 Meet the core team
+# 👋 Meet the core team
 
 ## Partnerships
 
