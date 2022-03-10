@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Build the 3D web](README.md)
-* [Own the 3D web](own-the-3d-web.md)
 * [Browse the 3D web](browse-the-3d-web.md)
+* [Own the 3D web](own-the-3d-web.md)
 
 ## THE 3D WEB
 
