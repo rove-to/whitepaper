@@ -17,10 +17,3 @@ Initially built by [the core team](../the-community/meet-the-core-team.md) to de
 
 ![Every website is immersive, real-time, and persistent.](<../.gitbook/assets/Frame 2.jpg>)
 
-## Which attributes do websites use?
-
-The first websites will be built on Voronoi rocks, using a few Voronoi attributes as basic primitives.
-
-* **Diameter:** The diameter attribute indicates the capacity of a website. The larger the rock is, the more visitors it can host.
-* **Complexity:** The more complexity a rock has, the more complex an experience it can host. For example, a low-complexity rock might only support a small hangout and be perfect for a group of friends, but rock with higher complexity might be needed to host a large-scale VR event.
-* **Gravity:** Social experiences in VR will use the gravity attribute to hang out while bending physics.
