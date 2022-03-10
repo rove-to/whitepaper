@@ -11,7 +11,7 @@ description: >-
 
 Rove will launch with customizable templates for 3D homes, stores, galleries, and community spaces. These environments are a reimagining of their web2 counterparts, designed to help users take their personal websites, online stores, portfolios, and forums into the new web.
 
-![3D templates for any sort of web presence.](<../.gitbook/assets/Frame 1.jpg>)
+![Plug and play 3D website templates.](<../.gitbook/assets/Frame 1.jpg>)
 
 Initially built by [the core team](../the-community/meet-the-core-team.md) to demonstrate possibilities, the community will later be able to create their own templates for other Rovers to use.
 
