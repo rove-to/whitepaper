@@ -8,7 +8,7 @@ description: >-
 
 # What is Rove?
 
-![Customizable 3D website templates for any kind of web presence.](<.gitbook/assets/Screen Shot 2022-03-08 at 11.23.02 AM.png>)
+![Customizable 3D website templates for any kind of web presence.](<.gitbook/assets/Group 3.png>)
 
 Creating rich 3D environments is as simple as applying a website template. Build a 3D store for your customers – tomorrow’s Shopify. A 3D gallery for clients – tomorrow’s Behance. Or simply a 3D home people can visit – your personal website!
 
