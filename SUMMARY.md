@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Rovers build the 3D web](README.md)
-* [Rovers own the 3D web](rovers-own-the-3d-web.md)
+* [Build the 3D web](README.md)
+* [Own the 3D web](own-the-3d-web.md)
 * [Browse the 3D web](browse-the-3d-web.md)
 
 ## THE 3D WEB
