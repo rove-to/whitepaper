@@ -4,14 +4,14 @@
 * [Browse the 3D web](browse-the-3d-web.md)
 * [Own the 3D web](own-the-3d-web.md)
 
-## THE 3D WEB
+## THE 3D WEBSITE
 
-* [3D website templates](the-3d-web/3d-templates.md)
-* [WordPress → 3D Home](the-3d-web/wordpress-3d-home.md)
-* [Shopify → 3D Store](the-3d-web/shopify-3d-store.md)
-* [Behance → 3D Gallery](the-3d-web/behance-3d-gallery.md)
-* [Slack → 3D Office](the-3d-web/slack-3d-office.md)
-* [Reddit → 3D Cafe](the-3d-web/reddit-3d-cafe.md)
+* [3D website templates](the-3d-website/3d-templates.md)
+* [WordPress → 3D Home](the-3d-website/wordpress-3d-home.md)
+* [Shopify → 3D Store](the-3d-website/shopify-3d-store.md)
+* [Behance → 3D Gallery](the-3d-website/behance-3d-gallery.md)
+* [Slack → 3D Office](the-3d-website/slack-3d-office.md)
+* [Reddit → 3D Cafe](the-3d-website/reddit-3d-cafe.md)
 
 ## The Community
 
