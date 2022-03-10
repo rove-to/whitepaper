@@ -20,7 +20,7 @@ In the 3D web, visitors become inhabitants. They participate rather than passive
 
 ![Web experiences on Rove are live, immersive, and persistent.](<.gitbook/assets/image (8).png>)
 
-Every website on Rove is user-created. The basic building blocks for Rovers to create 3D web presences are [metaverses](the-3d-web/metaverses.md), [rocks](the-3d-web/rocks/), [environments](the-3d-web/environments.md), and [objects](the-3d-web/objects.md).
+Every website on Rove is user-created. The basic building blocks for Rovers to create 3D web presences are [metaverses](broken-reference), [rocks](broken-reference), [environments](broken-reference), and [objects](broken-reference).
 
 ## You own the 3D web.
 
