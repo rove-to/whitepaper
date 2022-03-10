@@ -2,7 +2,7 @@
 
 * [What is the 3D web?](README.md)
 * [Rovers build the 3D web](rovers-build-the-3d-web.md)
-* [You own the 3D web.](you-own-the-3d-web..md)
+* [Rovers own the 3D web](rovers-own-the-3d-web.md)
 
 ## THE 3D WEB
 
