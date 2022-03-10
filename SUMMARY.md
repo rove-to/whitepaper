@@ -13,4 +13,4 @@
 
 ## The Community
 
-* [🥳 Meet the core team](the-community/meet-the-core-team.md)
+* [👋 Meet the core team](the-community/meet-the-core-team.md)
