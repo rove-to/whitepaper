@@ -16,11 +16,3 @@ description: >-
 **Networking is more fun in the metaverse.** Invite a prospective partner or employee to grab coffee in your 3D office. Explore a more enjoyable way to build new relationships.\
 \
 **Get to know new humans.** Have a remote coworker you've never met in real life? Ditch the introductory Slack message for a virtual game of beer pong.\
-\
-
-
-\
-
-
-
-
