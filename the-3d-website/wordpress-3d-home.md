@@ -9,9 +9,9 @@ description: >-
 
 ![Hang out with your friends at your 3D home.](<../.gitbook/assets/Home\_01 (1) (1).png>)
 
-## Rove is a more human way to live online.
+## Meet in person.
 
-**Escape the Zoom-bie apocalypse.** Sometimes it’s just better to meet in person. Remember what it’s like to talk together, instead of at each other?
+**Escape the Zoom-bie apocalypse.** Sometimes it’s just better to be in the same room. Remember what it’s like to talk together, instead of at each other?
 
 **Create a cooler space to Hangout**. Invite friends to visit your penthouse in the metaverse instead of a screen in your garage. Deck the walls with your favorite NFTs.
 
