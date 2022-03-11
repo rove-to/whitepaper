@@ -12,7 +12,7 @@ description: >-
 
 In the 3D web, visitors become inhabitants. They participate rather than passively consume.&#x20;
 
-![Web experiences on Rove are live, immersive, and persistent.](<.gitbook/assets/image (11).png>)
+![The Rove Browser](<.gitbook/assets/Create room.jpg>)
 
 ## Rove is the gateway to the 3D web.
 
