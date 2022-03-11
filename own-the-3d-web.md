@@ -10,5 +10,5 @@ description: >-
 
 **Assets in Rove are owned by Rovers, not Rove.** Rovers hold their own private keys and have sole control over what they create, represented by cryptographic non-fungible tokens (NFTs). Unstoppable smart contracts are used to program relationships between these assets.
 
-![People own the 3D web.](<.gitbook/assets/image (12).png>)
+![You hold the keys to everything in your corner of the 3D web.](.gitbook/assets/Apartment\_Feb18\_02.mov.00\_00\_08\_00.Still001.jpg)
 
